@@ -1,0 +1,2408 @@
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1805640, theta=175432, lowalpha=111685, highalpha=102837, lowbeta=114799, highbeta=64127, lowgamma=51571, midgamma=150181)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1875629, theta=75558, lowalpha=10596, highalpha=57774, lowbeta=38335, highbeta=64782, lowgamma=18627, midgamma=13476)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1543434, theta=73402, lowalpha=43043, highalpha=40141, lowbeta=15111, highbeta=31057, lowgamma=29882, midgamma=18899)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=91890, theta=201740, lowalpha=13768, highalpha=12885, lowbeta=3064, highbeta=10517, lowgamma=6215, midgamma=5728)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=638905, theta=38392, lowalpha=78615, highalpha=50165, lowbeta=33234, highbeta=44081, lowgamma=10341, midgamma=15280)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1104017, theta=25356, lowalpha=1941, highalpha=5950, lowbeta=6418, highbeta=5453, lowgamma=2517, midgamma=990)
+ATTENTION eSense: 60
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=758772, theta=251305, lowalpha=27859, highalpha=11893, lowbeta=17279, highbeta=12396, lowgamma=22739, midgamma=9439)
+ATTENTION eSense: 43
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=217739, theta=56672, lowalpha=10545, highalpha=10172, lowbeta=22474, highbeta=12131, lowgamma=5343, midgamma=3989)
+ATTENTION eSense: 43
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=298688, theta=201758, lowalpha=18349, highalpha=32478, lowbeta=14302, highbeta=8777, lowgamma=20279, midgamma=4566)
+ATTENTION eSense: 43
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2308725, theta=135173, lowalpha=88285, highalpha=13542, lowbeta=18446, highbeta=11814, lowgamma=18410, midgamma=6582)
+ATTENTION eSense: 43
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2086697, theta=342687, lowalpha=32200, highalpha=48485, lowbeta=47382, highbeta=46147, lowgamma=38933, midgamma=20108)
+ATTENTION eSense: 38
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=193274, theta=207075, lowalpha=96861, highalpha=32650, lowbeta=21911, highbeta=49375, lowgamma=31152, midgamma=11776)
+ATTENTION eSense: 41
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=613801, theta=52103, lowalpha=120895, highalpha=101287, lowbeta=77423, highbeta=43422, lowgamma=15226, midgamma=7112)
+ATTENTION eSense: 38
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1099155, theta=1019442, lowalpha=21104, highalpha=118264, lowbeta=98975, highbeta=122922, lowgamma=57965, midgamma=31864)
+ATTENTION eSense: 51
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=659392, theta=137014, lowalpha=21199, highalpha=31466, lowbeta=36414, highbeta=37969, lowgamma=20469, midgamma=23645)
+ATTENTION eSense: 51
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=105776, theta=64087, lowalpha=9307, highalpha=5096, lowbeta=9797, highbeta=5580, lowgamma=2854, midgamma=4367)
+ATTENTION eSense: 44
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1901987, theta=617780, lowalpha=48827, highalpha=279428, lowbeta=170730, highbeta=216087, lowgamma=126849, midgamma=78159)
+ATTENTION eSense: 50
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=621014, theta=79253, lowalpha=39143, highalpha=26183, lowbeta=24089, highbeta=13230, lowgamma=7039, midgamma=5866)
+ATTENTION eSense: 50
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=343341, theta=23524, lowalpha=14365, highalpha=18506, lowbeta=11116, highbeta=9109, lowgamma=3364, midgamma=2137)
+ATTENTION eSense: 50
+MEDITATION eSense: 41
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1303163, theta=288031, lowalpha=422867, highalpha=340952, lowbeta=188654, highbeta=147817, lowgamma=59135, midgamma=128456)
+ATTENTION eSense: 48
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=177639, theta=22837, lowalpha=2477, highalpha=8541, lowbeta=25924, highbeta=5747, lowgamma=6330, midgamma=3110)
+ATTENTION eSense: 48
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1747135, theta=188272, lowalpha=33093, highalpha=80957, lowbeta=90972, highbeta=64956, lowgamma=12341, midgamma=16255)
+ATTENTION eSense: 48
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1683616, theta=113212, lowalpha=32532, highalpha=41348, lowbeta=4378, highbeta=43189, lowgamma=19532, midgamma=20301)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1018758, theta=218571, lowalpha=27795, highalpha=18021, lowbeta=16857, highbeta=12030, lowgamma=7038, midgamma=5943)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1518629, theta=626962, lowalpha=119892, highalpha=239160, lowbeta=190966, highbeta=64666, lowgamma=93776, midgamma=92510)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=791966, theta=66772, lowalpha=8808, highalpha=10149, lowbeta=24828, highbeta=19507, lowgamma=9988, midgamma=7937)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=1341741, theta=468569, lowalpha=83274, highalpha=64987, lowbeta=152714, highbeta=125684, lowgamma=16425, midgamma=37774)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=548008, theta=19996, lowalpha=32674, highalpha=17936, lowbeta=7048, highbeta=10540, lowgamma=5139, midgamma=1234)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=672552, theta=8870, lowalpha=20310, highalpha=12993, lowbeta=11808, highbeta=7060, lowgamma=3209, midgamma=3732)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=30522, theta=55071, lowalpha=13894, highalpha=8572, lowbeta=5546, highbeta=11258, lowgamma=11269, midgamma=2679)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1911348, theta=216941, lowalpha=53235, highalpha=6914, lowbeta=42634, highbeta=45260, lowgamma=33866, midgamma=46233)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=566951, theta=614536, lowalpha=30090, highalpha=72575, lowbeta=133072, highbeta=114464, lowgamma=22091, midgamma=25860)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=817107, theta=554276, lowalpha=191826, highalpha=232756, lowbeta=239830, highbeta=219672, lowgamma=204390, midgamma=79193)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1364859, theta=247506, lowalpha=87569, highalpha=68699, lowbeta=44770, highbeta=73209, lowgamma=48176, midgamma=38786)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=283514, theta=127213, lowalpha=50078, highalpha=41575, lowbeta=25406, highbeta=26090, lowgamma=7274, midgamma=3141)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1177018, theta=33699, lowalpha=4617, highalpha=4698, lowbeta=5052, highbeta=30588, lowgamma=13768, midgamma=1445)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=556566, theta=42531, lowalpha=9560, highalpha=9958, lowbeta=5604, highbeta=3888, lowgamma=983, midgamma=751)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1503270, theta=260616, lowalpha=155086, highalpha=78769, lowbeta=146225, highbeta=60296, lowgamma=25140, midgamma=24544)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=768963, theta=426514, lowalpha=116493, highalpha=62327, lowbeta=19091, highbeta=124158, lowgamma=107408, midgamma=61502)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=66324, theta=87944, lowalpha=15613, highalpha=20814, lowbeta=19259, highbeta=12208, lowgamma=4061, midgamma=4198)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1796610, theta=335516, lowalpha=57131, highalpha=20509, lowbeta=77746, highbeta=91420, lowgamma=18679, midgamma=125739)
+ATTENTION eSense: 56
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1985860, theta=611041, lowalpha=71288, highalpha=37799, lowbeta=57296, highbeta=68543, lowgamma=45241, midgamma=27736)
+ATTENTION eSense: 63
+MEDITATION eSense: 56
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2543289, theta=160564, lowalpha=32556, highalpha=19342, lowbeta=28520, highbeta=23835, lowgamma=16968, midgamma=11074)
+ATTENTION eSense: 63
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1731393, theta=630097, lowalpha=55515, highalpha=106585, lowbeta=277017, highbeta=227437, lowgamma=176883, midgamma=38969)
+ATTENTION eSense: 64
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2306319, theta=332305, lowalpha=236421, highalpha=194665, lowbeta=154586, highbeta=312238, lowgamma=106815, midgamma=134343)
+ATTENTION eSense: 78
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1313349, theta=302140, lowalpha=52206, highalpha=27883, lowbeta=56936, highbeta=66458, lowgamma=23030, midgamma=43178)
+ATTENTION eSense: 77
+MEDITATION eSense: 20
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1912088, theta=180222, lowalpha=382478, highalpha=26697, lowbeta=179592, highbeta=75734, lowgamma=92798, midgamma=22408)
+ATTENTION eSense: 80
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=339754, theta=231129, lowalpha=18313, highalpha=136766, lowbeta=60645, highbeta=57718, lowgamma=29570, midgamma=7289)
+ATTENTION eSense: 80
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1330195, theta=348069, lowalpha=48625, highalpha=50721, lowbeta=28989, highbeta=88776, lowgamma=23288, midgamma=8784)
+ATTENTION eSense: 80
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1309191, theta=1568376, lowalpha=307526, highalpha=463915, lowbeta=182454, highbeta=195724, lowgamma=138987, midgamma=29291)
+ATTENTION eSense: 64
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1572856, theta=712404, lowalpha=279990, highalpha=260583, lowbeta=277548, highbeta=202753, lowgamma=136233, midgamma=48356)
+ATTENTION eSense: 53
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=255476, theta=36835, lowalpha=3193, highalpha=28805, lowbeta=15928, highbeta=8791, lowgamma=8062, midgamma=2506)
+ATTENTION eSense: 53
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=3399374, theta=601506, lowalpha=206283, highalpha=113895, lowbeta=162349, highbeta=64937, lowgamma=110709, midgamma=24302)
+ATTENTION eSense: 40
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=674313, theta=185238, lowalpha=38567, highalpha=70110, lowbeta=23412, highbeta=28106, lowgamma=42428, midgamma=17697)
+ATTENTION eSense: 35
+MEDITATION eSense: 57
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=2402997, theta=319352, lowalpha=64228, highalpha=164657, lowbeta=85191, highbeta=99345, lowgamma=40177, midgamma=31417)
+ATTENTION eSense: 35
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=359329, theta=62472, lowalpha=2741, highalpha=12205, lowbeta=21586, highbeta=12196, lowgamma=10601, midgamma=1342)
+ATTENTION eSense: 43
+MEDITATION eSense: 44
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=198755, theta=94362, lowalpha=24858, highalpha=8083, lowbeta=3060, highbeta=8168, lowgamma=6679, midgamma=1399)
+ATTENTION eSense: 43
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=279503, theta=7363, lowalpha=3780, highalpha=10203, lowbeta=14427, highbeta=7058, lowgamma=2742, midgamma=1216)
+ATTENTION eSense: 43
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=3536469, theta=1670348, lowalpha=266931, highalpha=179789, lowbeta=67759, highbeta=116203, lowgamma=87041, midgamma=28584)
+ATTENTION eSense: 27
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=3154442, theta=1254853, lowalpha=264136, highalpha=618027, lowbeta=420863, highbeta=280661, lowgamma=141031, midgamma=150507)
+ATTENTION eSense: 37
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=275610, theta=138344, lowalpha=17375, highalpha=52625, lowbeta=24013, highbeta=49966, lowgamma=20870, midgamma=7185)
+ATTENTION eSense: 48
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=665421, theta=115565, lowalpha=20643, highalpha=6380, lowbeta=43996, highbeta=37409, lowgamma=17526, midgamma=7043)
+ATTENTION eSense: 56
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2735347, theta=501688, lowalpha=1440421, highalpha=1065533, lowbeta=199513, highbeta=619207, lowgamma=331265, midgamma=90483)
+ATTENTION eSense: 74
+MEDITATION eSense: 60
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1731850, theta=481748, lowalpha=295383, highalpha=73495, lowbeta=59268, highbeta=135502, lowgamma=109348, midgamma=79261)
+ATTENTION eSense: 74
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1374391, theta=79201, lowalpha=69606, highalpha=13241, lowbeta=53538, highbeta=82627, lowgamma=26144, midgamma=14769)
+ATTENTION eSense: 91
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=694695, theta=95650, lowalpha=52178, highalpha=24824, lowbeta=56836, highbeta=39018, lowgamma=16253, midgamma=3218)
+ATTENTION eSense: 91
+MEDITATION eSense: 56
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=1245574, theta=106475, lowalpha=16189, highalpha=41263, lowbeta=30445, highbeta=38826, lowgamma=9685, midgamma=908)
+ATTENTION eSense: 91
+MEDITATION eSense: 56
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1209977, theta=139080, lowalpha=52464, highalpha=76869, lowbeta=187427, highbeta=252636, lowgamma=105068, midgamma=57407)
+ATTENTION eSense: 91
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1446658, theta=1514397, lowalpha=160665, highalpha=92993, lowbeta=56480, highbeta=128973, lowgamma=48561, midgamma=32498)
+ATTENTION eSense: 75
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=709404, theta=64299, lowalpha=29033, highalpha=8664, lowbeta=26669, highbeta=22875, lowgamma=20340, midgamma=4539)
+ATTENTION eSense: 77
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=351541, theta=48399, lowalpha=17718, highalpha=25555, lowbeta=11718, highbeta=54658, lowgamma=10918, midgamma=3346)
+ATTENTION eSense: 77
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1092300, theta=1216927, lowalpha=221945, highalpha=211813, lowbeta=175378, highbeta=210497, lowgamma=79688, midgamma=36358)
+ATTENTION eSense: 69
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2068126, theta=787226, lowalpha=137194, highalpha=168836, lowbeta=80289, highbeta=92481, lowgamma=44197, midgamma=35988)
+ATTENTION eSense: 69
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=338892, theta=51990, lowalpha=7804, highalpha=75537, lowbeta=32128, highbeta=17151, lowgamma=18198, midgamma=6546)
+ATTENTION eSense: 63
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=263793, theta=85398, lowalpha=27694, highalpha=11508, lowbeta=24905, highbeta=22740, lowgamma=16548, midgamma=9976)
+ATTENTION eSense: 48
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1662377, theta=287216, lowalpha=109565, highalpha=72795, lowbeta=139065, highbeta=157393, lowgamma=120640, midgamma=77084)
+ATTENTION eSense: 60
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1333807, theta=54107, lowalpha=7579, highalpha=23698, lowbeta=59046, highbeta=38428, lowgamma=32786, midgamma=5751)
+ATTENTION eSense: 81
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=751316, theta=1092883, lowalpha=282172, highalpha=327630, lowbeta=139161, highbeta=266539, lowgamma=118880, midgamma=45126)
+ATTENTION eSense: 84
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=472881, theta=172981, lowalpha=59235, highalpha=49332, lowbeta=10276, highbeta=37572, lowgamma=25500, midgamma=4494)
+ATTENTION eSense: 81
+MEDITATION eSense: 43
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=330628, theta=54286, lowalpha=18264, highalpha=14832, lowbeta=11243, highbeta=12663, lowgamma=5113, midgamma=1097)
+ATTENTION eSense: 81
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1793417, theta=225397, lowalpha=195248, highalpha=147813, lowbeta=151733, highbeta=217656, lowgamma=48513, midgamma=24648)
+ATTENTION eSense: 84
+MEDITATION eSense: 50
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=43164, theta=6550, lowalpha=934, highalpha=6230, lowbeta=1012, highbeta=2154, lowgamma=451, midgamma=264)
+ATTENTION eSense: 84
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2902973, theta=185273, lowalpha=167504, highalpha=55077, lowbeta=103112, highbeta=69881, lowgamma=96983, midgamma=23850)
+ATTENTION eSense: 74
+MEDITATION eSense: 64
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=784500, theta=115789, lowalpha=96642, highalpha=81570, lowbeta=32613, highbeta=31283, lowgamma=27631, midgamma=8070)
+ATTENTION eSense: 74
+MEDITATION eSense: 64
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=776392, theta=132238, lowalpha=38817, highalpha=66814, lowbeta=36725, highbeta=37497, lowgamma=27555, midgamma=19757)
+ATTENTION eSense: 70
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=975082, theta=56552, lowalpha=15285, highalpha=58443, lowbeta=24599, highbeta=40500, lowgamma=12586, midgamma=12560)
+ATTENTION eSense: 81
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=463650, theta=627406, lowalpha=215182, highalpha=83740, lowbeta=182052, highbeta=102760, lowgamma=98578, midgamma=16356)
+ATTENTION eSense: 64
+MEDITATION eSense: 64
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=892828, theta=87910, lowalpha=96531, highalpha=51466, lowbeta=39648, highbeta=39031, lowgamma=9268, midgamma=19242)
+ATTENTION eSense: 63
+MEDITATION eSense: 69
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=744485, theta=261352, lowalpha=170480, highalpha=94251, lowbeta=50611, highbeta=29972, lowgamma=18522, midgamma=10575)
+ATTENTION eSense: 63
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2497252, theta=849396, lowalpha=58176, highalpha=64170, lowbeta=154694, highbeta=102805, lowgamma=99642, midgamma=16617)
+ATTENTION eSense: 57
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=550513, theta=6340, lowalpha=186, highalpha=5201, lowbeta=2986, highbeta=3517, lowgamma=2320, midgamma=775)
+ATTENTION eSense: 57
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=606342, theta=73880, lowalpha=34566, highalpha=10890, lowbeta=9946, highbeta=33128, lowgamma=13291, midgamma=6711)
+ATTENTION eSense: 70
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=192599, theta=100603, lowalpha=21645, highalpha=35684, lowbeta=16538, highbeta=20539, lowgamma=18199, midgamma=3760)
+ATTENTION eSense: 69
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=409249, theta=106841, lowalpha=49955, highalpha=19704, lowbeta=34814, highbeta=19096, lowgamma=13599, midgamma=5875)
+ATTENTION eSense: 69
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=136042, theta=69683, lowalpha=14827, highalpha=31668, lowbeta=30821, highbeta=23666, lowgamma=13322, midgamma=4256)
+ATTENTION eSense: 64
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2057421, theta=438453, lowalpha=72821, highalpha=130316, lowbeta=157922, highbeta=95197, lowgamma=106132, midgamma=101927)
+ATTENTION eSense: 56
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1250570, theta=320916, lowalpha=39474, highalpha=175365, lowbeta=130779, highbeta=207906, lowgamma=44368, midgamma=36015)
+ATTENTION eSense: 67
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1896929, theta=117198, lowalpha=8864, highalpha=56519, lowbeta=38951, highbeta=25499, lowgamma=10166, midgamma=7673)
+ATTENTION eSense: 69
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1529134, theta=167376, lowalpha=180761, highalpha=5702, lowbeta=89281, highbeta=32132, lowgamma=44827, midgamma=12242)
+ATTENTION eSense: 69
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=701473, theta=109265, lowalpha=32928, highalpha=82470, lowbeta=65361, highbeta=111770, lowgamma=14625, midgamma=8860)
+ATTENTION eSense: 83
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2401819, theta=572742, lowalpha=669151, highalpha=201076, lowbeta=774111, highbeta=584585, lowgamma=470777, midgamma=140913)
+ATTENTION eSense: 94
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=638586, theta=144095, lowalpha=39309, highalpha=31520, lowbeta=14190, highbeta=42279, lowgamma=19702, midgamma=10113)
+ATTENTION eSense: 87
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=326775, theta=130269, lowalpha=69904, highalpha=35041, lowbeta=35497, highbeta=22689, lowgamma=32248, midgamma=8498)
+ATTENTION eSense: 83
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=888935, theta=118922, lowalpha=47897, highalpha=36969, lowbeta=22848, highbeta=50767, lowgamma=15819, midgamma=6748)
+ATTENTION eSense: 75
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1511443, theta=76865, lowalpha=122950, highalpha=29163, lowbeta=83249, highbeta=29619, lowgamma=22333, midgamma=11946)
+ATTENTION eSense: 61
+MEDITATION eSense: 64
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1230695, theta=309282, lowalpha=25616, highalpha=124707, lowbeta=17340, highbeta=49915, lowgamma=26728, midgamma=5622)
+ATTENTION eSense: 53
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1150807, theta=135212, lowalpha=15486, highalpha=16298, lowbeta=9335, highbeta=24065, lowgamma=10388, midgamma=8085)
+ATTENTION eSense: 56
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=723990, theta=170173, lowalpha=66852, highalpha=81215, lowbeta=67940, highbeta=20640, lowgamma=15164, midgamma=4463)
+ATTENTION eSense: 40
+MEDITATION eSense: 56
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=208209, theta=11051, lowalpha=2374, highalpha=5509, lowbeta=9566, highbeta=4422, lowgamma=1840, midgamma=1300)
+ATTENTION eSense: 40
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=175458, theta=616798, lowalpha=181040, highalpha=163180, lowbeta=62510, highbeta=128347, lowgamma=122812, midgamma=32553)
+ATTENTION eSense: 40
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=446324, theta=121479, lowalpha=16509, highalpha=25704, lowbeta=37918, highbeta=34687, lowgamma=25345, midgamma=10694)
+ATTENTION eSense: 50
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=460066, theta=51043, lowalpha=78723, highalpha=107974, lowbeta=18200, highbeta=69287, lowgamma=25566, midgamma=1435)
+ATTENTION eSense: 60
+MEDITATION eSense: 64
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1002915, theta=108293, lowalpha=20858, highalpha=20313, lowbeta=26361, highbeta=33545, lowgamma=15939, midgamma=8204)
+ATTENTION eSense: 77
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2879953, theta=331885, lowalpha=94274, highalpha=13430, lowbeta=219270, highbeta=121832, lowgamma=117771, midgamma=31354)
+ATTENTION eSense: 84
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1768909, theta=293466, lowalpha=100060, highalpha=129295, lowbeta=131307, highbeta=120809, lowgamma=65816, midgamma=35524)
+ATTENTION eSense: 84
+MEDITATION eSense: 48
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=743817, theta=28793, lowalpha=10625, highalpha=10340, lowbeta=17527, highbeta=20092, lowgamma=8774, midgamma=2799)
+ATTENTION eSense: 84
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=694135, theta=690630, lowalpha=129497, highalpha=182974, lowbeta=80793, highbeta=127616, lowgamma=61648, midgamma=21226)
+ATTENTION eSense: 74
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=144456, theta=1529, lowalpha=5357, highalpha=1731, lowbeta=2332, highbeta=3465, lowgamma=2535, midgamma=357)
+ATTENTION eSense: 74
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=991321, theta=114286, lowalpha=3788, highalpha=112893, lowbeta=20308, highbeta=33257, lowgamma=21225, midgamma=14370)
+ATTENTION eSense: 74
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=896693, theta=66567, lowalpha=2005, highalpha=19271, lowbeta=12760, highbeta=43067, lowgamma=16342, midgamma=4421)
+ATTENTION eSense: 83
+MEDITATION eSense: 26
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=848201, theta=39828, lowalpha=9516, highalpha=35767, lowbeta=26765, highbeta=43555, lowgamma=26908, midgamma=5563)
+ATTENTION eSense: 91
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=781717, theta=138385, lowalpha=66739, highalpha=17290, lowbeta=54908, highbeta=20482, lowgamma=31706, midgamma=7373)
+ATTENTION eSense: 81
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=743508, theta=156077, lowalpha=18009, highalpha=27389, lowbeta=11119, highbeta=28732, lowgamma=27325, midgamma=10141)
+ATTENTION eSense: 83
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=645993, theta=113402, lowalpha=12589, highalpha=48444, lowbeta=66672, highbeta=24053, lowgamma=25473, midgamma=3072)
+ATTENTION eSense: 66
+MEDITATION eSense: 40
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=736029, theta=25936, lowalpha=1636, highalpha=7456, lowbeta=17621, highbeta=6362, lowgamma=3014, midgamma=939)
+ATTENTION eSense: 66
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=676093, theta=69318, lowalpha=8401, highalpha=11132, lowbeta=3297, highbeta=8952, lowgamma=4471, midgamma=6343)
+ATTENTION eSense: 66
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=672026, theta=120349, lowalpha=59831, highalpha=15494, lowbeta=29821, highbeta=56986, lowgamma=28561, midgamma=8929)
+ATTENTION eSense: 60
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1570264, theta=280064, lowalpha=46839, highalpha=33997, lowbeta=93559, highbeta=81691, lowgamma=63671, midgamma=47650)
+ATTENTION eSense: 69
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=230223, theta=31559, lowalpha=127539, highalpha=16048, lowbeta=36235, highbeta=32992, lowgamma=17880, midgamma=7506)
+ATTENTION eSense: 74
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=932895, theta=322867, lowalpha=42227, highalpha=43861, lowbeta=21119, highbeta=24040, lowgamma=24362, midgamma=12289)
+ATTENTION eSense: 63
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=47367, theta=54661, lowalpha=16863, highalpha=8685, lowbeta=6701, highbeta=6050, lowgamma=4520, midgamma=1142)
+ATTENTION eSense: 44
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=87747, theta=218367, lowalpha=79921, highalpha=24989, lowbeta=23349, highbeta=31888, lowgamma=67884, midgamma=5003)
+ATTENTION eSense: 37
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2350984, theta=111204, lowalpha=53869, highalpha=76060, lowbeta=40701, highbeta=34741, lowgamma=9985, midgamma=14402)
+ATTENTION eSense: 30
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=676067, theta=75203, lowalpha=19378, highalpha=6135, lowbeta=28464, highbeta=25845, lowgamma=9850, midgamma=3038)
+ATTENTION eSense: 51
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1860085, theta=190258, lowalpha=48410, highalpha=45105, lowbeta=34467, highbeta=24236, lowgamma=13745, midgamma=18177)
+ATTENTION eSense: 51
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=144533, theta=176353, lowalpha=39342, highalpha=87509, lowbeta=17615, highbeta=23283, lowgamma=13119, midgamma=9432)
+ATTENTION eSense: 48
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2077263, theta=106020, lowalpha=119023, highalpha=102453, lowbeta=134502, highbeta=32029, lowgamma=19028, midgamma=11791)
+ATTENTION eSense: 48
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1020977, theta=56840, lowalpha=15675, highalpha=39333, lowbeta=58538, highbeta=87913, lowgamma=34229, midgamma=23432)
+ATTENTION eSense: 48
+MEDITATION eSense: 51
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=836031, theta=23698, lowalpha=27734, highalpha=6963, lowbeta=3309, highbeta=4519, lowgamma=3012, midgamma=2304)
+ATTENTION eSense: 48
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=152305, theta=166342, lowalpha=5938, highalpha=21086, lowbeta=12732, highbeta=23045, lowgamma=13724, midgamma=8833)
+ATTENTION eSense: 44
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=810928, theta=585153, lowalpha=63529, highalpha=46867, lowbeta=71892, highbeta=60787, lowgamma=40251, midgamma=22237)
+ATTENTION eSense: 30
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=759553, theta=2022145, lowalpha=140541, highalpha=86695, lowbeta=88443, highbeta=44003, lowgamma=103623, midgamma=32274)
+ATTENTION eSense: 16
+MEDITATION eSense: 10
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=3208176, theta=389133, lowalpha=174483, highalpha=54566, lowbeta=98296, highbeta=156763, lowgamma=45034, midgamma=24391)
+ATTENTION eSense: 34
+MEDITATION eSense: 3
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=881855, theta=213923, lowalpha=70858, highalpha=399798, lowbeta=205276, highbeta=126994, lowgamma=89028, midgamma=13941)
+ATTENTION eSense: 38
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=220961, theta=73793, lowalpha=741, highalpha=15666, lowbeta=3794, highbeta=8979, lowgamma=5213, midgamma=5530)
+ATTENTION eSense: 38
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1587957, theta=663089, lowalpha=268124, highalpha=267438, lowbeta=302473, highbeta=118336, lowgamma=54601, midgamma=60143)
+ATTENTION eSense: 38
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=773544, theta=21390, lowalpha=31863, highalpha=11574, lowbeta=29861, highbeta=27096, lowgamma=13145, midgamma=13474)
+ATTENTION eSense: 57
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1549187, theta=193960, lowalpha=217530, highalpha=62931, lowbeta=103283, highbeta=53709, lowgamma=17623, midgamma=21916)
+ATTENTION eSense: 57
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1606720, theta=153079, lowalpha=29790, highalpha=13708, lowbeta=36474, highbeta=19331, lowgamma=15545, midgamma=5388)
+ATTENTION eSense: 57
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1018990, theta=336316, lowalpha=681618, highalpha=137308, lowbeta=220669, highbeta=170005, lowgamma=142886, midgamma=27219)
+ATTENTION eSense: 81
+MEDITATION eSense: 77
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=831902, theta=147780, lowalpha=34842, highalpha=67153, lowbeta=43981, highbeta=50711, lowgamma=13148, midgamma=24314)
+ATTENTION eSense: 81
+MEDITATION eSense: 77
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1266643, theta=1059430, lowalpha=780469, highalpha=443909, lowbeta=220611, highbeta=117996, lowgamma=84771, midgamma=39086)
+ATTENTION eSense: 81
+MEDITATION eSense: 77
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=100830, theta=68573, lowalpha=11696, highalpha=4834, lowbeta=18326, highbeta=9237, lowgamma=3830, midgamma=5825)
+ATTENTION eSense: 81
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2214808, theta=205636, lowalpha=76617, highalpha=25359, lowbeta=18236, highbeta=34507, lowgamma=36993, midgamma=7596)
+ATTENTION eSense: 74
+MEDITATION eSense: 78
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=590716, theta=193816, lowalpha=46321, highalpha=94335, lowbeta=30654, highbeta=40971, lowgamma=10861, midgamma=15409)
+ATTENTION eSense: 67
+MEDITATION eSense: 70
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=368706, theta=100199, lowalpha=68330, highalpha=28667, lowbeta=28160, highbeta=31925, lowgamma=35068, midgamma=13771)
+ATTENTION eSense: 67
+MEDITATION eSense: 70
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1472247, theta=79927, lowalpha=7662, highalpha=6369, lowbeta=14148, highbeta=7293, lowgamma=6325, midgamma=1739)
+ATTENTION eSense: 67
+MEDITATION eSense: 70
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=682139, theta=45116, lowalpha=13623, highalpha=18486, lowbeta=30951, highbeta=27070, lowgamma=20021, midgamma=6418)
+ATTENTION eSense: 64
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=379150, theta=882379, lowalpha=69373, highalpha=148041, lowbeta=175781, highbeta=98707, lowgamma=94945, midgamma=65113)
+ATTENTION eSense: 60
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1241380, theta=377824, lowalpha=136985, highalpha=123795, lowbeta=200238, highbeta=242678, lowgamma=129383, midgamma=49067)
+ATTENTION eSense: 74
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=189783, theta=138164, lowalpha=13609, highalpha=70808, lowbeta=37837, highbeta=21112, lowgamma=22982, midgamma=7853)
+ATTENTION eSense: 69
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=335082, theta=78254, lowalpha=18554, highalpha=25783, lowbeta=55440, highbeta=36266, lowgamma=18237, midgamma=9995)
+ATTENTION eSense: 67
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=177693, theta=327609, lowalpha=108268, highalpha=24422, lowbeta=50645, highbeta=37746, lowgamma=17994, midgamma=6918)
+ATTENTION eSense: 67
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=192342, theta=320080, lowalpha=323804, highalpha=131625, lowbeta=47099, highbeta=82516, lowgamma=113152, midgamma=44075)
+ATTENTION eSense: 53
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1388082, theta=93547, lowalpha=78978, highalpha=253967, lowbeta=22107, highbeta=36333, lowgamma=15176, midgamma=9966)
+ATTENTION eSense: 51
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=747902, theta=73363, lowalpha=40727, highalpha=32760, lowbeta=16514, highbeta=29546, lowgamma=9851, midgamma=5540)
+ATTENTION eSense: 48
+MEDITATION eSense: 84
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=654467, theta=79211, lowalpha=19983, highalpha=45987, lowbeta=29340, highbeta=40252, lowgamma=23614, midgamma=14351)
+ATTENTION eSense: 61
+MEDITATION eSense: 88
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2133643, theta=245575, lowalpha=48917, highalpha=46364, lowbeta=14941, highbeta=21097, lowgamma=30459, midgamma=11745)
+ATTENTION eSense: 61
+MEDITATION eSense: 88
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1534411, theta=84675, lowalpha=62994, highalpha=41976, lowbeta=14783, highbeta=43758, lowgamma=8265, midgamma=5226)
+ATTENTION eSense: 69
+MEDITATION eSense: 81
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=140947, theta=138513, lowalpha=46435, highalpha=42684, lowbeta=46360, highbeta=18776, lowgamma=15030, midgamma=17985)
+ATTENTION eSense: 69
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=799777, theta=1117517, lowalpha=42772, highalpha=583096, lowbeta=148103, highbeta=148903, lowgamma=49887, midgamma=65506)
+ATTENTION eSense: 60
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=394989, theta=191706, lowalpha=87143, highalpha=24922, lowbeta=16071, highbeta=34867, lowgamma=18681, midgamma=28175)
+ATTENTION eSense: 50
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1909959, theta=394694, lowalpha=3124, highalpha=56831, lowbeta=37075, highbeta=22170, lowgamma=43306, midgamma=3081)
+ATTENTION eSense: 34
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1073516, theta=1298519, lowalpha=176460, highalpha=37393, lowbeta=214840, highbeta=194667, lowgamma=121006, midgamma=14986)
+ATTENTION eSense: 37
+MEDITATION eSense: 21
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=302514, theta=103108, lowalpha=28764, highalpha=248875, lowbeta=32497, highbeta=33542, lowgamma=15333, midgamma=8593)
+ATTENTION eSense: 38
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=770578, theta=136497, lowalpha=42896, highalpha=25306, lowbeta=39179, highbeta=33954, lowgamma=14579, midgamma=7104)
+ATTENTION eSense: 43
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1898151, theta=801547, lowalpha=27844, highalpha=115748, lowbeta=103992, highbeta=144541, lowgamma=36053, midgamma=7724)
+ATTENTION eSense: 54
+MEDITATION eSense: 34
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=115372, theta=54975, lowalpha=8688, highalpha=9974, lowbeta=12902, highbeta=8760, lowgamma=6050, midgamma=802)
+ATTENTION eSense: 54
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=317058, theta=79799, lowalpha=57583, highalpha=18937, lowbeta=31959, highbeta=34382, lowgamma=6195, midgamma=2403)
+ATTENTION eSense: 63
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=88249, theta=55283, lowalpha=17997, highalpha=22395, lowbeta=2502, highbeta=7068, lowgamma=6386, midgamma=883)
+ATTENTION eSense: 63
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=752878, theta=65678, lowalpha=29715, highalpha=26268, lowbeta=24867, highbeta=25257, lowgamma=19943, midgamma=5332)
+ATTENTION eSense: 63
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=848936, theta=173649, lowalpha=61761, highalpha=44559, lowbeta=42768, highbeta=36635, lowgamma=11849, midgamma=6383)
+ATTENTION eSense: 64
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=409551, theta=177224, lowalpha=69602, highalpha=35635, lowbeta=40776, highbeta=31485, lowgamma=29519, midgamma=2880)
+ATTENTION eSense: 61
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1246861, theta=461264, lowalpha=289869, highalpha=240287, lowbeta=201266, highbeta=141597, lowgamma=123647, midgamma=39147)
+ATTENTION eSense: 60
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=90903, theta=155867, lowalpha=52056, highalpha=56193, lowbeta=45763, highbeta=60325, lowgamma=17663, midgamma=6597)
+ATTENTION eSense: 57
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=217730, theta=757129, lowalpha=154221, highalpha=84153, lowbeta=210930, highbeta=115339, lowgamma=74967, midgamma=16933)
+ATTENTION eSense: 57
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1626719, theta=283980, lowalpha=239931, highalpha=211924, lowbeta=114475, highbeta=125005, lowgamma=105567, midgamma=23348)
+ATTENTION eSense: 61
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=911960, theta=53629, lowalpha=57106, highalpha=105175, lowbeta=41855, highbeta=33281, lowgamma=25415, midgamma=11470)
+ATTENTION eSense: 64
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1075266, theta=27292, lowalpha=8582, highalpha=24552, lowbeta=19779, highbeta=29726, lowgamma=17568, midgamma=6124)
+ATTENTION eSense: 75
+MEDITATION eSense: 63
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=937426, theta=208122, lowalpha=67692, highalpha=50932, lowbeta=19475, highbeta=46316, lowgamma=17619, midgamma=9328)
+ATTENTION eSense: 75
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=239803, theta=16135, lowalpha=5745, highalpha=9508, lowbeta=3911, highbeta=8755, lowgamma=4606, midgamma=3075)
+ATTENTION eSense: 83
+MEDITATION eSense: 74
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=997161, theta=655976, lowalpha=211362, highalpha=69125, lowbeta=100313, highbeta=152125, lowgamma=51697, midgamma=30300)
+ATTENTION eSense: 83
+MEDITATION eSense: 74
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1947697, theta=820074, lowalpha=185374, highalpha=268739, lowbeta=399541, highbeta=142678, lowgamma=52153, midgamma=60261)
+ATTENTION eSense: 80
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=921798, theta=86114, lowalpha=2427, highalpha=6365, lowbeta=23106, highbeta=14133, lowgamma=30257, midgamma=8421)
+ATTENTION eSense: 80
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=69942, theta=478952, lowalpha=213434, highalpha=32916, lowbeta=80145, highbeta=17932, lowgamma=29853, midgamma=19501)
+ATTENTION eSense: 57
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=171964, theta=11502, lowalpha=861, highalpha=1255, lowbeta=2074, highbeta=1506, lowgamma=465, midgamma=447)
+ATTENTION eSense: 57
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=95328, theta=8101, lowalpha=30280, highalpha=14559, lowbeta=9984, highbeta=4416, lowgamma=6847, midgamma=663)
+ATTENTION eSense: 38
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1230519, theta=34286, lowalpha=17949, highalpha=17118, lowbeta=22378, highbeta=19387, lowgamma=21865, midgamma=9190)
+ATTENTION eSense: 38
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=930613, theta=84593, lowalpha=19412, highalpha=28225, lowbeta=18148, highbeta=12888, lowgamma=24296, midgamma=8008)
+ATTENTION eSense: 24
+MEDITATION eSense: 64
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1089220, theta=1533264, lowalpha=257197, highalpha=107900, lowbeta=100337, highbeta=148296, lowgamma=82196, midgamma=45535)
+ATTENTION eSense: 20
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=834746, theta=455351, lowalpha=61661, highalpha=45490, lowbeta=39727, highbeta=102369, lowgamma=64606, midgamma=27909)
+ATTENTION eSense: 43
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=707254, theta=160933, lowalpha=36106, highalpha=64764, lowbeta=26954, highbeta=20255, lowgamma=15259, midgamma=7073)
+ATTENTION eSense: 41
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=150941, theta=21113, lowalpha=8286, highalpha=16859, lowbeta=40515, highbeta=19231, lowgamma=9811, midgamma=9214)
+ATTENTION eSense: 60
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=925330, theta=103744, lowalpha=17576, highalpha=14605, lowbeta=58198, highbeta=28196, lowgamma=19090, midgamma=7203)
+ATTENTION eSense: 69
+MEDITATION eSense: 24
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1534037, theta=118840, lowalpha=30809, highalpha=103090, lowbeta=18036, highbeta=22014, lowgamma=21510, midgamma=9502)
+ATTENTION eSense: 60
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=189076, theta=30209, lowalpha=2165, highalpha=1570, lowbeta=3409, highbeta=1662, lowgamma=1095, midgamma=384)
+ATTENTION eSense: 60
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=515711, theta=113300, lowalpha=10674, highalpha=71156, lowbeta=68338, highbeta=36326, lowgamma=18518, midgamma=4085)
+ATTENTION eSense: 70
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=563443, theta=30988, lowalpha=5027, highalpha=7398, lowbeta=7868, highbeta=4829, lowgamma=2484, midgamma=1747)
+ATTENTION eSense: 70
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=121545, theta=113423, lowalpha=39064, highalpha=38247, lowbeta=37323, highbeta=57179, lowgamma=31226, midgamma=10036)
+ATTENTION eSense: 70
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=757951, theta=51754, lowalpha=10639, highalpha=21246, lowbeta=14148, highbeta=8255, lowgamma=6978, midgamma=1337)
+ATTENTION eSense: 70
+MEDITATION eSense: 41
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=658497, theta=10451, lowalpha=2354, highalpha=8229, lowbeta=5494, highbeta=6139, lowgamma=3490, midgamma=1372)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1867933, theta=108252, lowalpha=49789, highalpha=25357, lowbeta=43067, highbeta=63749, lowgamma=11634, midgamma=4181)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=984273, theta=151373, lowalpha=31854, highalpha=93525, lowbeta=40984, highbeta=34721, lowgamma=19466, midgamma=29365)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1244820, theta=63817, lowalpha=148374, highalpha=24509, lowbeta=29925, highbeta=25223, lowgamma=19691, midgamma=17912)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=985556, theta=72794, lowalpha=78512, highalpha=37640, lowbeta=32587, highbeta=66894, lowgamma=26060, midgamma=9553)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1070197, theta=161816, lowalpha=88073, highalpha=72180, lowbeta=69531, highbeta=109617, lowgamma=34734, midgamma=4549)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1196488, theta=94631, lowalpha=19940, highalpha=29359, lowbeta=41637, highbeta=23253, lowgamma=22516, midgamma=5723)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1646257, theta=40010, lowalpha=17376, highalpha=45568, lowbeta=37567, highbeta=14254, lowgamma=10180, midgamma=15142)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=264924, theta=28360, lowalpha=46971, highalpha=35500, lowbeta=16166, highbeta=9215, lowgamma=9876, midgamma=6555)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=734407, theta=87022, lowalpha=7975, highalpha=8447, lowbeta=20430, highbeta=51290, lowgamma=48100, midgamma=5316)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=99851, theta=49638, lowalpha=14535, highalpha=6960, lowbeta=4830, highbeta=24422, lowgamma=10722, midgamma=3097)
+ATTENTION eSense: 70
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=661691, theta=206989, lowalpha=8241, highalpha=24132, lowbeta=33653, highbeta=42010, lowgamma=19660, midgamma=8930)
+ATTENTION eSense: 81
+MEDITATION eSense: 26
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1760216, theta=660948, lowalpha=25153, highalpha=299275, lowbeta=354474, highbeta=196686, lowgamma=74109, midgamma=46220)
+ATTENTION eSense: 81
+MEDITATION eSense: 26
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2544947, theta=50512, lowalpha=26842, highalpha=11306, lowbeta=17633, highbeta=37477, lowgamma=11687, midgamma=5783)
+ATTENTION eSense: 81
+MEDITATION eSense: 26
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=224798, theta=44707, lowalpha=12983, highalpha=11279, lowbeta=12218, highbeta=9708, lowgamma=4735, midgamma=1254)
+ATTENTION eSense: 77
+MEDITATION eSense: 24
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2286261, theta=74206, lowalpha=42900, highalpha=21619, lowbeta=24243, highbeta=16941, lowgamma=11206, midgamma=5227)
+ATTENTION eSense: 77
+MEDITATION eSense: 24
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=806089, theta=183509, lowalpha=164421, highalpha=149338, lowbeta=97341, highbeta=107430, lowgamma=50834, midgamma=10102)
+ATTENTION eSense: 74
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=232901, theta=39203, lowalpha=36828, highalpha=6622, lowbeta=41839, highbeta=24170, lowgamma=18871, midgamma=4651)
+ATTENTION eSense: 70
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=787990, theta=558208, lowalpha=102570, highalpha=202985, lowbeta=87316, highbeta=97069, lowgamma=31245, midgamma=25084)
+ATTENTION eSense: 66
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=31383, theta=36798, lowalpha=2279, highalpha=10027, lowbeta=5821, highbeta=4110, lowgamma=5098, midgamma=3907)
+ATTENTION eSense: 61
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=600119, theta=100026, lowalpha=24052, highalpha=55451, lowbeta=49534, highbeta=28854, lowgamma=30726, midgamma=9781)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1771533, theta=312063, lowalpha=117531, highalpha=378543, lowbeta=610421, highbeta=231591, lowgamma=24333, midgamma=42585)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1636544, theta=146237, lowalpha=22076, highalpha=29867, lowbeta=43741, highbeta=54102, lowgamma=33208, midgamma=21661)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=329043, theta=34479, lowalpha=8854, highalpha=9564, lowbeta=6691, highbeta=8863, lowgamma=2208, midgamma=1066)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=805077, theta=258939, lowalpha=83092, highalpha=39644, lowbeta=219602, highbeta=71323, lowgamma=13051, midgamma=11666)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=563899, theta=99645, lowalpha=62525, highalpha=28736, lowbeta=17844, highbeta=21733, lowgamma=3778, midgamma=11070)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=689852, theta=13625, lowalpha=3614, highalpha=2438, lowbeta=2860, highbeta=3398, lowgamma=1294, midgamma=484)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=156220, theta=8576, lowalpha=19434, highalpha=4832, lowbeta=9374, highbeta=5519, lowgamma=3148, midgamma=2050)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1135980, theta=97005, lowalpha=31229, highalpha=78215, lowbeta=88467, highbeta=93775, lowgamma=17712, midgamma=4849)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1132777, theta=338948, lowalpha=110752, highalpha=109357, lowbeta=68478, highbeta=84837, lowgamma=4081, midgamma=5785)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1032636, theta=21458, lowalpha=740, highalpha=9001, lowbeta=29025, highbeta=130791, lowgamma=17560, midgamma=20800)
+ATTENTION eSense: 60
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2151733, theta=632918, lowalpha=37619, highalpha=38093, lowbeta=94832, highbeta=104474, lowgamma=51217, midgamma=84472)
+ATTENTION eSense: 53
+MEDITATION eSense: 24
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2789726, theta=477942, lowalpha=566381, highalpha=532859, lowbeta=375403, highbeta=431410, lowgamma=453591, midgamma=83370)
+ATTENTION eSense: 64
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=902199, theta=150639, lowalpha=26925, highalpha=21870, lowbeta=59626, highbeta=29806, lowgamma=20395, midgamma=5042)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=630710, theta=589166, lowalpha=270399, highalpha=75212, lowbeta=98460, highbeta=111189, lowgamma=95144, midgamma=42960)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1112867, theta=59153, lowalpha=23487, highalpha=20497, lowbeta=9099, highbeta=7409, lowgamma=3571, midgamma=2229)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1884693, theta=106494, lowalpha=71730, highalpha=18425, lowbeta=33806, highbeta=22975, lowgamma=19183, midgamma=5219)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1612842, theta=86185, lowalpha=23572, highalpha=19927, lowbeta=35332, highbeta=65738, lowgamma=50139, midgamma=8084)
+ATTENTION eSense: 81
+MEDITATION eSense: 21
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1901236, theta=61058, lowalpha=1224, highalpha=115332, lowbeta=59248, highbeta=34885, lowgamma=7368, midgamma=3854)
+ATTENTION eSense: 81
+MEDITATION eSense: 21
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=712600, theta=289610, lowalpha=97899, highalpha=112400, lowbeta=192913, highbeta=115324, lowgamma=31139, midgamma=24098)
+ATTENTION eSense: 87
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1508650, theta=13986, lowalpha=1745, highalpha=52124, lowbeta=24589, highbeta=17019, lowgamma=29689, midgamma=5884)
+ATTENTION eSense: 87
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=894329, theta=36569, lowalpha=14022, highalpha=14674, lowbeta=38772, highbeta=30556, lowgamma=7673, midgamma=5289)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1710088, theta=41871, lowalpha=65336, highalpha=11718, lowbeta=9788, highbeta=26519, lowgamma=18007, midgamma=13200)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=552793, theta=15121, lowalpha=13272, highalpha=5881, lowbeta=3045, highbeta=8930, lowgamma=5130, midgamma=1795)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=151459, theta=48563, lowalpha=9723, highalpha=8826, lowbeta=17208, highbeta=13040, lowgamma=4031, midgamma=2192)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=714752, theta=76824, lowalpha=7517, highalpha=8347, lowbeta=9891, highbeta=5022, lowgamma=5620, midgamma=2442)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1077358, theta=52427, lowalpha=17081, highalpha=22802, lowbeta=67821, highbeta=49035, lowgamma=8561, midgamma=3324)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1089638, theta=38460, lowalpha=9416, highalpha=7681, lowbeta=5333, highbeta=4689, lowgamma=2421, midgamma=1779)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=520516, theta=75701, lowalpha=11860, highalpha=13255, lowbeta=6590, highbeta=6654, lowgamma=3231, midgamma=2390)
+ATTENTION eSense: 100
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=108622, theta=36108, lowalpha=20380, highalpha=13501, lowbeta=16062, highbeta=18013, lowgamma=7411, midgamma=2144)
+ATTENTION eSense: 90
+MEDITATION eSense: 54
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1510338, theta=721065, lowalpha=82578, highalpha=43205, lowbeta=51837, highbeta=31880, lowgamma=31478, midgamma=41121)
+ATTENTION eSense: 90
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1844241, theta=616535, lowalpha=70210, highalpha=119357, lowbeta=490105, highbeta=239150, lowgamma=122788, midgamma=43408)
+ATTENTION eSense: 93
+MEDITATION eSense: 43
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=578061, theta=6783, lowalpha=2997, highalpha=7131, lowbeta=10293, highbeta=10124, lowgamma=6555, midgamma=2011)
+ATTENTION eSense: 93
+MEDITATION eSense: 43
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1106631, theta=121260, lowalpha=46612, highalpha=59672, lowbeta=41738, highbeta=14938, lowgamma=19511, midgamma=5234)
+ATTENTION eSense: 93
+MEDITATION eSense: 43
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=2506533, theta=229458, lowalpha=65773, highalpha=102088, lowbeta=107018, highbeta=99354, lowgamma=71718, midgamma=15457)
+ATTENTION eSense: 93
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=41340, theta=39080, lowalpha=4600, highalpha=4796, lowbeta=12187, highbeta=8385, lowgamma=3973, midgamma=1968)
+ATTENTION eSense: 90
+MEDITATION eSense: 20
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=593066, theta=54697, lowalpha=16501, highalpha=15646, lowbeta=11215, highbeta=18743, lowgamma=3609, midgamma=4650)
+ATTENTION eSense: 90
+MEDITATION eSense: 20
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1094488, theta=92023, lowalpha=32756, highalpha=27729, lowbeta=53726, highbeta=23326, lowgamma=12480, midgamma=10546)
+ATTENTION eSense: 90
+MEDITATION eSense: 20
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=576217, theta=122601, lowalpha=19611, highalpha=65373, lowbeta=6657, highbeta=15455, lowgamma=6402, midgamma=5230)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=852896, theta=68515, lowalpha=56406, highalpha=37784, lowbeta=77439, highbeta=28307, lowgamma=10928, midgamma=6052)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=552762, theta=199370, lowalpha=14332, highalpha=17261, lowbeta=13008, highbeta=20930, lowgamma=8912, midgamma=5799)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=3878218, theta=79228, lowalpha=22800, highalpha=95056, lowbeta=44340, highbeta=73615, lowgamma=16519, midgamma=18830)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1318084, theta=847175, lowalpha=239955, highalpha=325886, lowbeta=84417, highbeta=88775, lowgamma=20596, midgamma=14419)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1045364, theta=323459, lowalpha=25819, highalpha=29582, lowbeta=39164, highbeta=18264, lowgamma=12658, midgamma=16184)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=129231, theta=15511, lowalpha=1349, highalpha=1829, lowbeta=9810, highbeta=16995, lowgamma=3610, midgamma=6413)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1076880, theta=92758, lowalpha=44636, highalpha=16702, lowbeta=5285, highbeta=28593, lowgamma=21764, midgamma=12079)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1490119, theta=412284, lowalpha=45950, highalpha=60624, lowbeta=42495, highbeta=81506, lowgamma=100031, midgamma=40495)
+ATTENTION eSense: 69
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1770130, theta=387733, lowalpha=33900, highalpha=114692, lowbeta=43811, highbeta=113979, lowgamma=63653, midgamma=34823)
+ATTENTION eSense: 67
+MEDITATION eSense: 21
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1345384, theta=33825, lowalpha=32519, highalpha=39332, lowbeta=27736, highbeta=27173, lowgamma=4493, midgamma=6863)
+ATTENTION eSense: 67
+MEDITATION eSense: 21
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=203133, theta=44793, lowalpha=35608, highalpha=38348, lowbeta=36774, highbeta=45335, lowgamma=14790, midgamma=22057)
+ATTENTION eSense: 67
+MEDITATION eSense: 21
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=433336, theta=121816, lowalpha=19017, highalpha=33026, lowbeta=56125, highbeta=40408, lowgamma=10478, midgamma=3263)
+ATTENTION eSense: 64
+MEDITATION eSense: 27
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=343964, theta=11995, lowalpha=3735, highalpha=9742, lowbeta=7777, highbeta=4150, lowgamma=2333, midgamma=1768)
+ATTENTION eSense: 64
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1300731, theta=744819, lowalpha=75366, highalpha=103329, lowbeta=89836, highbeta=71588, lowgamma=34159, midgamma=25121)
+ATTENTION eSense: 53
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1216437, theta=127145, lowalpha=25387, highalpha=44414, lowbeta=24497, highbeta=22173, lowgamma=11960, midgamma=10758)
+ATTENTION eSense: 53
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2898499, theta=122782, lowalpha=278406, highalpha=29578, lowbeta=148220, highbeta=48138, lowgamma=18831, midgamma=9591)
+ATTENTION eSense: 53
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=918367, theta=200316, lowalpha=32202, highalpha=26358, lowbeta=25956, highbeta=23073, lowgamma=16465, midgamma=4889)
+ATTENTION eSense: 54
+MEDITATION eSense: 17
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=184875, theta=150980, lowalpha=5309, highalpha=31529, lowbeta=28353, highbeta=51294, lowgamma=9000, midgamma=8105)
+ATTENTION eSense: 54
+MEDITATION eSense: 17
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1366495, theta=100585, lowalpha=62354, highalpha=31147, lowbeta=6491, highbeta=17124, lowgamma=12218, midgamma=3706)
+ATTENTION eSense: 47
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2725424, theta=422031, lowalpha=62150, highalpha=14713, lowbeta=56480, highbeta=107305, lowgamma=44356, midgamma=56084)
+ATTENTION eSense: 44
+MEDITATION eSense: 23
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=867218, theta=176435, lowalpha=26114, highalpha=15803, lowbeta=14538, highbeta=27913, lowgamma=19979, midgamma=5762)
+ATTENTION eSense: 51
+MEDITATION eSense: 23
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1391553, theta=85558, lowalpha=44244, highalpha=21077, lowbeta=48510, highbeta=27648, lowgamma=13085, midgamma=3595)
+ATTENTION eSense: 60
+MEDITATION eSense: 30
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=897368, theta=212705, lowalpha=29374, highalpha=59351, lowbeta=85385, highbeta=41453, lowgamma=62423, midgamma=32822)
+ATTENTION eSense: 60
+MEDITATION eSense: 30
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1387279, theta=81515, lowalpha=54281, highalpha=14357, lowbeta=32759, highbeta=22010, lowgamma=27131, midgamma=7903)
+ATTENTION eSense: 60
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1070307, theta=578092, lowalpha=11570, highalpha=48012, lowbeta=356575, highbeta=151190, lowgamma=62355, midgamma=30446)
+ATTENTION eSense: 69
+MEDITATION eSense: 3
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1694853, theta=963401, lowalpha=606227, highalpha=1700593, lowbeta=626798, highbeta=660014, lowgamma=384760, midgamma=159507)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=632400, theta=144373, lowalpha=38917, highalpha=98567, lowbeta=70265, highbeta=93349, lowgamma=90308, midgamma=46018)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=937775, theta=337163, lowalpha=316591, highalpha=23442, lowbeta=103166, highbeta=107289, lowgamma=62465, midgamma=10362)
+ATTENTION eSense: 69
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=24861, theta=5489, lowalpha=17056, highalpha=4671, lowbeta=8455, highbeta=9339, lowgamma=4220, midgamma=1880)
+ATTENTION eSense: 81
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=599535, theta=120395, lowalpha=41473, highalpha=40161, lowbeta=18872, highbeta=41902, lowgamma=19476, midgamma=13768)
+ATTENTION eSense: 81
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1029294, theta=214738, lowalpha=310826, highalpha=112298, lowbeta=112320, highbeta=216783, lowgamma=67432, midgamma=9612)
+ATTENTION eSense: 90
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1150686, theta=223107, lowalpha=73301, highalpha=98062, lowbeta=27795, highbeta=101132, lowgamma=32314, midgamma=5291)
+ATTENTION eSense: 90
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1925517, theta=84696, lowalpha=14957, highalpha=35058, lowbeta=39648, highbeta=36321, lowgamma=14584, midgamma=5791)
+ATTENTION eSense: 90
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1206210, theta=123257, lowalpha=23050, highalpha=4831, lowbeta=8941, highbeta=23342, lowgamma=8880, midgamma=2753)
+ATTENTION eSense: 90
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=652800, theta=10880, lowalpha=4949, highalpha=2875, lowbeta=1328, highbeta=4375, lowgamma=2539, midgamma=3740)
+ATTENTION eSense: 90
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=103425, theta=34172, lowalpha=8816, highalpha=4516, lowbeta=19866, highbeta=5040, lowgamma=2331, midgamma=710)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=835447, theta=649746, lowalpha=128220, highalpha=58066, lowbeta=49023, highbeta=66604, lowgamma=67552, midgamma=59061)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=577862, theta=16685, lowalpha=14748, highalpha=16059, lowbeta=17245, highbeta=15784, lowgamma=6528, midgamma=2701)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=404527, theta=18193, lowalpha=28619, highalpha=21603, lowbeta=8213, highbeta=8861, lowgamma=1491, midgamma=557)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2133486, theta=188868, lowalpha=11496, highalpha=34033, lowbeta=20218, highbeta=17744, lowgamma=13188, midgamma=11754)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=941710, theta=9225, lowalpha=6118, highalpha=1671, lowbeta=6710, highbeta=4331, lowgamma=3820, midgamma=1977)
+ATTENTION eSense: 80
+MEDITATION eSense: 78
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=60713, theta=27453, lowalpha=19997, highalpha=2220, lowbeta=3781, highbeta=4194, lowgamma=2308, midgamma=1166)
+ATTENTION eSense: 69
+MEDITATION eSense: 70
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=353750, theta=150031, lowalpha=118775, highalpha=32925, lowbeta=52719, highbeta=31067, lowgamma=23794, midgamma=3564)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=665580, theta=58510, lowalpha=50005, highalpha=19794, lowbeta=55402, highbeta=27674, lowgamma=10677, midgamma=6763)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1127217, theta=210456, lowalpha=156114, highalpha=222616, lowbeta=151686, highbeta=221187, lowgamma=51631, midgamma=29690)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=309873, theta=393188, lowalpha=126636, highalpha=169830, lowbeta=129297, highbeta=52685, lowgamma=19526, midgamma=24225)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=919500, theta=73434, lowalpha=11948, highalpha=8811, lowbeta=27646, highbeta=18639, lowgamma=9205, midgamma=3758)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=656328, theta=19729, lowalpha=2471, highalpha=6482, lowbeta=7475, highbeta=3732, lowgamma=2275, midgamma=277)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=357882, theta=20595, lowalpha=11352, highalpha=900, lowbeta=2122, highbeta=5098, lowgamma=2278, midgamma=1629)
+ATTENTION eSense: 56
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=304379, theta=18421, lowalpha=11828, highalpha=5883, lowbeta=7278, highbeta=7727, lowgamma=7015, midgamma=1893)
+ATTENTION eSense: 66
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=498414, theta=277820, lowalpha=66564, highalpha=96237, lowbeta=132646, highbeta=77841, lowgamma=60235, midgamma=35048)
+ATTENTION eSense: 75
+MEDITATION eSense: 69
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=50485, theta=27491, lowalpha=5445, highalpha=10457, lowbeta=10339, highbeta=8312, lowgamma=3951, midgamma=6866)
+ATTENTION eSense: 75
+MEDITATION eSense: 69
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=671333, theta=781092, lowalpha=181226, highalpha=94328, lowbeta=94069, highbeta=45371, lowgamma=18686, midgamma=14281)
+ATTENTION eSense: 75
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=873244, theta=485968, lowalpha=35754, highalpha=124426, lowbeta=68107, highbeta=127619, lowgamma=67982, midgamma=16827)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=799100, theta=10124, lowalpha=13665, highalpha=6613, lowbeta=5504, highbeta=6519, lowgamma=4239, midgamma=2446)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1055287, theta=83255, lowalpha=62691, highalpha=48353, lowbeta=32644, highbeta=38079, lowgamma=13016, midgamma=5570)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=561451, theta=86353, lowalpha=34008, highalpha=33666, lowbeta=39231, highbeta=13360, lowgamma=2871, midgamma=2402)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=464258, theta=111807, lowalpha=45000, highalpha=23885, lowbeta=22711, highbeta=11866, lowgamma=5607, midgamma=2186)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1199644, theta=55519, lowalpha=42104, highalpha=65390, lowbeta=43599, highbeta=54560, lowgamma=25340, midgamma=10412)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=671829, theta=120180, lowalpha=32183, highalpha=32658, lowbeta=13020, highbeta=21212, lowgamma=7600, midgamma=2963)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1239072, theta=134306, lowalpha=32643, highalpha=18813, lowbeta=29509, highbeta=34917, lowgamma=22683, midgamma=19019)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1848744, theta=1062644, lowalpha=477628, highalpha=128560, lowbeta=84331, highbeta=239924, lowgamma=52601, midgamma=40138)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=477293, theta=1099499, lowalpha=99348, highalpha=70623, lowbeta=367717, highbeta=313886, lowgamma=171382, midgamma=111508)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1050504, theta=58970, lowalpha=13019, highalpha=27135, lowbeta=58411, highbeta=31270, lowgamma=24404, midgamma=5168)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1381980, theta=118545, lowalpha=6098, highalpha=8883, lowbeta=13144, highbeta=67864, lowgamma=17879, midgamma=41882)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1933345, theta=210119, lowalpha=106719, highalpha=77891, lowbeta=73834, highbeta=42541, lowgamma=19007, midgamma=15548)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=587135, theta=183111, lowalpha=32665, highalpha=35786, lowbeta=43860, highbeta=39016, lowgamma=12432, midgamma=1147)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1268460, theta=179901, lowalpha=31775, highalpha=5145, lowbeta=12073, highbeta=21768, lowgamma=30647, midgamma=9355)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1152642, theta=174283, lowalpha=57282, highalpha=53405, lowbeta=77461, highbeta=27589, lowgamma=17123, midgamma=13729)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=2332296, theta=152918, lowalpha=59068, highalpha=32307, lowbeta=13170, highbeta=12127, lowgamma=2319, midgamma=1974)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=563976, theta=19647, lowalpha=26458, highalpha=16938, lowbeta=28525, highbeta=48574, lowgamma=9725, midgamma=16501)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1867587, theta=762554, lowalpha=58585, highalpha=51105, lowbeta=69409, highbeta=98009, lowgamma=87696, midgamma=18590)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=816116, theta=210877, lowalpha=45509, highalpha=47171, lowbeta=30708, highbeta=24070, lowgamma=10852, midgamma=6517)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=405364, theta=61395, lowalpha=3966, highalpha=8734, lowbeta=6384, highbeta=5391, lowgamma=2707, midgamma=1040)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1779544, theta=92656, lowalpha=46091, highalpha=41710, lowbeta=101488, highbeta=27471, lowgamma=16888, midgamma=5791)
+ATTENTION eSense: 81
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2814531, theta=817253, lowalpha=66847, highalpha=212929, lowbeta=137201, highbeta=125803, lowgamma=76849, midgamma=31335)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=890613, theta=50617, lowalpha=2827, highalpha=18352, lowbeta=24150, highbeta=26962, lowgamma=26946, midgamma=8288)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1133301, theta=355254, lowalpha=7292, highalpha=33052, lowbeta=29418, highbeta=65914, lowgamma=27968, midgamma=8085)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2743118, theta=988533, lowalpha=67954, highalpha=277002, lowbeta=196988, highbeta=315805, lowgamma=30295, midgamma=14880)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1060614, theta=213408, lowalpha=2558, highalpha=25134, lowbeta=35304, highbeta=37843, lowgamma=21314, midgamma=5600)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=2160360, theta=273603, lowalpha=27337, highalpha=31712, lowbeta=136794, highbeta=90082, lowgamma=42673, midgamma=19190)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=733398, theta=774758, lowalpha=183188, highalpha=105403, lowbeta=73883, highbeta=55634, lowgamma=50145, midgamma=6682)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2567588, theta=216212, lowalpha=118927, highalpha=149183, lowbeta=200145, highbeta=81875, lowgamma=117809, midgamma=18691)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1069617, theta=92400, lowalpha=49836, highalpha=39761, lowbeta=45952, highbeta=60245, lowgamma=53358, midgamma=19470)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=3032289, theta=51378, lowalpha=20802, highalpha=43969, lowbeta=14048, highbeta=8219, lowgamma=13113, midgamma=2919)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=814722, theta=153387, lowalpha=6184, highalpha=91890, lowbeta=50368, highbeta=54634, lowgamma=24861, midgamma=11018)
+ATTENTION eSense: 67
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=936730, theta=40029, lowalpha=115794, highalpha=10530, lowbeta=18707, highbeta=20514, lowgamma=11408, midgamma=5939)
+ATTENTION eSense: 61
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=309762, theta=39819, lowalpha=29325, highalpha=70158, lowbeta=16477, highbeta=22379, lowgamma=15463, midgamma=5523)
+ATTENTION eSense: 60
+MEDITATION eSense: 77
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=973811, theta=113023, lowalpha=19885, highalpha=64183, lowbeta=76892, highbeta=94264, lowgamma=112210, midgamma=41897)
+ATTENTION eSense: 60
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=131998, theta=15787, lowalpha=1886, highalpha=6538, lowbeta=6922, highbeta=8536, lowgamma=3155, midgamma=1522)
+ATTENTION eSense: 66
+MEDITATION eSense: 78
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1425292, theta=1848820, lowalpha=508529, highalpha=60237, lowbeta=694888, highbeta=404869, lowgamma=224855, midgamma=336334)
+ATTENTION eSense: 69
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=189730, theta=113782, lowalpha=23669, highalpha=25951, lowbeta=71396, highbeta=25448, lowgamma=11038, midgamma=5485)
+ATTENTION eSense: 74
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1840820, theta=48601, lowalpha=22271, highalpha=70083, lowbeta=40581, highbeta=55351, lowgamma=74002, midgamma=45575)
+ATTENTION eSense: 74
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=598849, theta=60516, lowalpha=22316, highalpha=20754, lowbeta=44876, highbeta=50869, lowgamma=11467, midgamma=5659)
+ATTENTION eSense: 88
+MEDITATION eSense: 35
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=1420369, theta=98405, lowalpha=73297, highalpha=17741, lowbeta=11925, highbeta=25422, lowgamma=18091, midgamma=6508)
+ATTENTION eSense: 88
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=477344, theta=330628, lowalpha=97940, highalpha=220638, lowbeta=163007, highbeta=149726, lowgamma=87989, midgamma=26640)
+ATTENTION eSense: 83
+MEDITATION eSense: 41
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1453229, theta=54152, lowalpha=70324, highalpha=14294, lowbeta=32168, highbeta=34002, lowgamma=15427, midgamma=6426)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=784589, theta=433391, lowalpha=283932, highalpha=49852, lowbeta=88858, highbeta=163614, lowgamma=48507, midgamma=35849)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=404261, theta=41120, lowalpha=8595, highalpha=5749, lowbeta=7103, highbeta=4504, lowgamma=4861, midgamma=2157)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1859203, theta=1950955, lowalpha=881961, highalpha=548142, lowbeta=228924, highbeta=138122, lowgamma=193789, midgamma=16199)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1788533, theta=161786, lowalpha=71395, highalpha=171111, lowbeta=103308, highbeta=45295, lowgamma=24185, midgamma=12776)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=489858, theta=157247, lowalpha=31300, highalpha=50691, lowbeta=33654, highbeta=51808, lowgamma=34367, midgamma=29087)
+ATTENTION eSense: 88
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=59075, theta=20418, lowalpha=9891, highalpha=6769, lowbeta=3609, highbeta=6599, lowgamma=6583, midgamma=941)
+ATTENTION eSense: 90
+MEDITATION eSense: 66
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1821745, theta=330240, lowalpha=39405, highalpha=145626, lowbeta=339091, highbeta=213694, lowgamma=62620, midgamma=26903)
+ATTENTION eSense: 90
+MEDITATION eSense: 66
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1053585, theta=214281, lowalpha=67795, highalpha=42757, lowbeta=67702, highbeta=96046, lowgamma=17690, midgamma=6427)
+ATTENTION eSense: 90
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=977763, theta=544459, lowalpha=56870, highalpha=48664, lowbeta=98027, highbeta=143171, lowgamma=70065, midgamma=86959)
+ATTENTION eSense: 80
+MEDITATION eSense: 60
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=573364, theta=160998, lowalpha=54334, highalpha=96460, lowbeta=46562, highbeta=78690, lowgamma=24708, midgamma=36038)
+ATTENTION eSense: 80
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2075632, theta=44404, lowalpha=84223, highalpha=30543, lowbeta=29888, highbeta=38786, lowgamma=17816, midgamma=7342)
+ATTENTION eSense: 80
+MEDITATION eSense: 67
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=539313, theta=1000841, lowalpha=251529, highalpha=420540, lowbeta=281217, highbeta=501441, lowgamma=124631, midgamma=40454)
+ATTENTION eSense: 80
+MEDITATION eSense: 67
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=957152, theta=49919, lowalpha=37204, highalpha=55558, lowbeta=37789, highbeta=35080, lowgamma=14865, midgamma=13405)
+ATTENTION eSense: 80
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=884218, theta=206370, lowalpha=57876, highalpha=34878, lowbeta=11400, highbeta=35022, lowgamma=23857, midgamma=5085)
+ATTENTION eSense: 80
+MEDITATION eSense: 67
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=636581, theta=2421, lowalpha=2761, highalpha=6143, lowbeta=3174, highbeta=3640, lowgamma=2260, midgamma=913)
+ATTENTION eSense: 80
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=609065, theta=76452, lowalpha=20634, highalpha=6043, lowbeta=14175, highbeta=32302, lowgamma=7786, midgamma=2327)
+ATTENTION eSense: 83
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1503144, theta=110927, lowalpha=29997, highalpha=49134, lowbeta=98505, highbeta=58339, lowgamma=35469, midgamma=9784)
+ATTENTION eSense: 90
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=164449, theta=107534, lowalpha=15454, highalpha=59752, lowbeta=21050, highbeta=9362, lowgamma=9547, midgamma=4311)
+ATTENTION eSense: 70
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=562337, theta=69907, lowalpha=30425, highalpha=47432, lowbeta=21882, highbeta=30569, lowgamma=8508, midgamma=3292)
+ATTENTION eSense: 67
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=156855, theta=11415, lowalpha=5906, highalpha=3700, lowbeta=11294, highbeta=9082, lowgamma=1664, midgamma=2047)
+ATTENTION eSense: 69
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=642856, theta=114482, lowalpha=19615, highalpha=2486, lowbeta=7048, highbeta=21774, lowgamma=2428, midgamma=974)
+ATTENTION eSense: 60
+MEDITATION eSense: 53
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=842654, theta=85282, lowalpha=52907, highalpha=60653, lowbeta=22339, highbeta=32704, lowgamma=7193, midgamma=7875)
+ATTENTION eSense: 60
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=539971, theta=51829, lowalpha=18504, highalpha=17381, lowbeta=42151, highbeta=20621, lowgamma=28612, midgamma=6881)
+ATTENTION eSense: 60
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=59787, theta=16603, lowalpha=17746, highalpha=15058, lowbeta=6961, highbeta=4880, lowgamma=7105, midgamma=1292)
+ATTENTION eSense: 67
+MEDITATION eSense: 63
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=672123, theta=126044, lowalpha=116764, highalpha=110514, lowbeta=210011, highbeta=103896, lowgamma=36831, midgamma=24723)
+ATTENTION eSense: 67
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1154538, theta=68617, lowalpha=24971, highalpha=22250, lowbeta=15507, highbeta=50576, lowgamma=10790, midgamma=6074)
+ATTENTION eSense: 77
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=215193, theta=33238, lowalpha=7259, highalpha=9567, lowbeta=5682, highbeta=5555, lowgamma=2589, midgamma=1565)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=808361, theta=29184, lowalpha=14058, highalpha=10037, lowbeta=11756, highbeta=8584, lowgamma=2589, midgamma=957)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=870071, theta=146835, lowalpha=16881, highalpha=17924, lowbeta=18506, highbeta=22586, lowgamma=12640, midgamma=2596)
+ATTENTION eSense: 57
+MEDITATION eSense: 61
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1900125, theta=10503, lowalpha=18153, highalpha=13318, lowbeta=16818, highbeta=5136, lowgamma=3248, midgamma=2719)
+ATTENTION eSense: 57
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=728449, theta=15004, lowalpha=5095, highalpha=7904, lowbeta=16274, highbeta=7940, lowgamma=1648, midgamma=523)
+ATTENTION eSense: 57
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=278301, theta=48546, lowalpha=17357, highalpha=35348, lowbeta=21801, highbeta=16678, lowgamma=9213, midgamma=2892)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=962303, theta=39494, lowalpha=2176, highalpha=7699, lowbeta=23437, highbeta=17530, lowgamma=12546, midgamma=2675)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1299681, theta=514809, lowalpha=45197, highalpha=43243, lowbeta=79049, highbeta=107017, lowgamma=91726, midgamma=55244)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=686300, theta=73687, lowalpha=50814, highalpha=94561, lowbeta=38199, highbeta=47610, lowgamma=29139, midgamma=5809)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1187628, theta=25671, lowalpha=10297, highalpha=14601, lowbeta=20706, highbeta=15876, lowgamma=4324, midgamma=1186)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=2546868, theta=124164, lowalpha=12267, highalpha=26449, lowbeta=86008, highbeta=33566, lowgamma=7324, midgamma=11652)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1019914, theta=109320, lowalpha=61895, highalpha=26798, lowbeta=14089, highbeta=19493, lowgamma=3682, midgamma=6453)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=746681, theta=30001, lowalpha=39910, highalpha=48481, lowbeta=82162, highbeta=39732, lowgamma=7951, midgamma=5241)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1176147, theta=204260, lowalpha=78762, highalpha=15275, lowbeta=177734, highbeta=48808, lowgamma=28305, midgamma=24521)
+ATTENTION eSense: 66
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=384993, theta=121628, lowalpha=7837, highalpha=22606, lowbeta=32940, highbeta=31685, lowgamma=16763, midgamma=11719)
+ATTENTION eSense: 57
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=781035, theta=65247, lowalpha=22108, highalpha=48223, lowbeta=29854, highbeta=20384, lowgamma=9045, midgamma=6526)
+ATTENTION eSense: 60
+MEDITATION eSense: 48
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1453163, theta=107324, lowalpha=21869, highalpha=37862, lowbeta=29770, highbeta=60673, lowgamma=21474, midgamma=8849)
+ATTENTION eSense: 60
+MEDITATION eSense: 48
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=620457, theta=14010, lowalpha=422, highalpha=1119, lowbeta=3858, highbeta=1959, lowgamma=1329, midgamma=1281)
+ATTENTION eSense: 60
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=286824, theta=87065, lowalpha=3664, highalpha=13115, lowbeta=19150, highbeta=26714, lowgamma=11813, midgamma=7413)
+ATTENTION eSense: 69
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=163272, theta=169719, lowalpha=41676, highalpha=26846, lowbeta=20040, highbeta=26381, lowgamma=12906, midgamma=9562)
+ATTENTION eSense: 63
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=657392, theta=320705, lowalpha=118017, highalpha=108441, lowbeta=69285, highbeta=86034, lowgamma=43772, midgamma=43864)
+ATTENTION eSense: 60
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=89237, theta=10939, lowalpha=5048, highalpha=4264, lowbeta=3762, highbeta=4920, lowgamma=6344, midgamma=1226)
+ATTENTION eSense: 66
+MEDITATION eSense: 47
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1016978, theta=71996, lowalpha=27835, highalpha=31971, lowbeta=19010, highbeta=20125, lowgamma=13386, midgamma=5191)
+ATTENTION eSense: 57
+MEDITATION eSense: 63
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1022548, theta=50305, lowalpha=4654, highalpha=13908, lowbeta=8933, highbeta=6847, lowgamma=4181, midgamma=1342)
+ATTENTION eSense: 57
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=871001, theta=213501, lowalpha=79844, highalpha=216099, lowbeta=80955, highbeta=96234, lowgamma=35784, midgamma=11817)
+ATTENTION eSense: 64
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2667272, theta=237360, lowalpha=121078, highalpha=57067, lowbeta=62706, highbeta=59939, lowgamma=56082, midgamma=32616)
+ATTENTION eSense: 64
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=267364, theta=46670, lowalpha=4737, highalpha=31109, lowbeta=27816, highbeta=16564, lowgamma=7239, midgamma=5965)
+ATTENTION eSense: 63
+MEDITATION eSense: 70
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1286047, theta=64353, lowalpha=28262, highalpha=26493, lowbeta=82694, highbeta=29068, lowgamma=12431, midgamma=5148)
+ATTENTION eSense: 69
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=438919, theta=163277, lowalpha=19574, highalpha=37112, lowbeta=27334, highbeta=21141, lowgamma=14287, midgamma=4688)
+ATTENTION eSense: 63
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1400325, theta=105424, lowalpha=68864, highalpha=66530, lowbeta=70864, highbeta=51857, lowgamma=15558, midgamma=5298)
+ATTENTION eSense: 66
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=979770, theta=29200, lowalpha=2231, highalpha=16441, lowbeta=15581, highbeta=32035, lowgamma=13090, midgamma=12994)
+ATTENTION eSense: 81
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=136036, theta=165086, lowalpha=33111, highalpha=19997, lowbeta=12926, highbeta=42438, lowgamma=17466, midgamma=6426)
+ATTENTION eSense: 78
+MEDITATION eSense: 48
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1064037, theta=186955, lowalpha=12203, highalpha=45860, lowbeta=34587, highbeta=38118, lowgamma=11172, midgamma=3740)
+ATTENTION eSense: 78
+MEDITATION eSense: 48
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=481702, theta=24005, lowalpha=47293, highalpha=37242, lowbeta=13386, highbeta=18672, lowgamma=15000, midgamma=7894)
+ATTENTION eSense: 78
+MEDITATION eSense: 48
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=348315, theta=177395, lowalpha=40074, highalpha=32488, lowbeta=29031, highbeta=22537, lowgamma=16043, midgamma=5827)
+ATTENTION eSense: 78
+MEDITATION eSense: 48
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=2099434, theta=268733, lowalpha=113107, highalpha=151251, lowbeta=6883, highbeta=42582, lowgamma=25187, midgamma=16336)
+ATTENTION eSense: 78
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=614010, theta=108283, lowalpha=7457, highalpha=8500, lowbeta=12695, highbeta=41991, lowgamma=16274, midgamma=5107)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1551255, theta=667323, lowalpha=183390, highalpha=64895, lowbeta=43200, highbeta=321937, lowgamma=392144, midgamma=60253)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=645098, theta=108876, lowalpha=31485, highalpha=20505, lowbeta=5592, highbeta=9822, lowgamma=6527, midgamma=5310)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=400044, theta=23702, lowalpha=7382, highalpha=18050, lowbeta=24798, highbeta=20685, lowgamma=15815, midgamma=13707)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=729107, theta=25675, lowalpha=4989, highalpha=2862, lowbeta=1696, highbeta=1092, lowgamma=721, midgamma=366)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=258865, theta=32574, lowalpha=59475, highalpha=4773, lowbeta=22415, highbeta=18648, lowgamma=9562, midgamma=4628)
+ATTENTION eSense: 93
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=606995, theta=128745, lowalpha=80872, highalpha=9263, lowbeta=18883, highbeta=29258, lowgamma=10461, midgamma=4277)
+ATTENTION eSense: 87
+MEDITATION eSense: 35
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1939451, theta=464697, lowalpha=81701, highalpha=74471, lowbeta=133737, highbeta=97430, lowgamma=109024, midgamma=67248)
+ATTENTION eSense: 87
+MEDITATION eSense: 35
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1317635, theta=153312, lowalpha=89557, highalpha=50967, lowbeta=9054, highbeta=15363, lowgamma=23405, midgamma=10402)
+ATTENTION eSense: 87
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=525524, theta=178003, lowalpha=31064, highalpha=7469, lowbeta=16454, highbeta=18974, lowgamma=19193, midgamma=7102)
+ATTENTION eSense: 61
+MEDITATION eSense: 30
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=475293, theta=79651, lowalpha=12390, highalpha=9276, lowbeta=15351, highbeta=12556, lowgamma=5679, midgamma=7135)
+ATTENTION eSense: 61
+MEDITATION eSense: 30
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=678176, theta=126801, lowalpha=18799, highalpha=2652, lowbeta=13162, highbeta=12020, lowgamma=10504, midgamma=3269)
+ATTENTION eSense: 51
+MEDITATION eSense: 24
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2112592, theta=251472, lowalpha=386846, highalpha=489891, lowbeta=308024, highbeta=106773, lowgamma=82032, midgamma=24792)
+ATTENTION eSense: 37
+MEDITATION eSense: 53
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=966422, theta=121358, lowalpha=134779, highalpha=75460, lowbeta=33898, highbeta=44140, lowgamma=32264, midgamma=9093)
+ATTENTION eSense: 37
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=580875, theta=664776, lowalpha=3889, highalpha=65032, lowbeta=97869, highbeta=41175, lowgamma=51392, midgamma=23763)
+ATTENTION eSense: 26
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=239931, theta=67540, lowalpha=19598, highalpha=12132, lowbeta=27238, highbeta=39611, lowgamma=10384, midgamma=6709)
+ATTENTION eSense: 43
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1110126, theta=105355, lowalpha=9827, highalpha=10657, lowbeta=18458, highbeta=21454, lowgamma=20827, midgamma=5588)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1597961, theta=333036, lowalpha=119531, highalpha=213486, lowbeta=238858, highbeta=88599, lowgamma=36702, midgamma=32604)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=919225, theta=88332, lowalpha=102531, highalpha=56778, lowbeta=32744, highbeta=35947, lowgamma=18053, midgamma=10501)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2456127, theta=591217, lowalpha=132920, highalpha=181033, lowbeta=70175, highbeta=31675, lowgamma=35603, midgamma=15746)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1039961, theta=49722, lowalpha=9651, highalpha=43345, lowbeta=18959, highbeta=65837, lowgamma=11435, midgamma=10618)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=940238, theta=48312, lowalpha=12423, highalpha=3100, lowbeta=19178, highbeta=4507, lowgamma=2324, midgamma=1032)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=424832, theta=15752, lowalpha=945, highalpha=4063, lowbeta=8459, highbeta=12645, lowgamma=1746, midgamma=919)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1724863, theta=284898, lowalpha=53415, highalpha=61754, lowbeta=106631, highbeta=94192, lowgamma=46189, midgamma=33856)
+ATTENTION eSense: 53
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=635394, theta=84775, lowalpha=3446, highalpha=19497, lowbeta=3134, highbeta=17995, lowgamma=16745, midgamma=6014)
+ATTENTION eSense: 57
+MEDITATION eSense: 16
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=534005, theta=121282, lowalpha=16979, highalpha=16525, lowbeta=13255, highbeta=9771, lowgamma=4733, midgamma=783)
+ATTENTION eSense: 57
+MEDITATION eSense: 16
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=696922, theta=15231, lowalpha=13617, highalpha=12109, lowbeta=8664, highbeta=7303, lowgamma=2202, midgamma=964)
+ATTENTION eSense: 57
+MEDITATION eSense: 16
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=3531050, theta=1037498, lowalpha=17015, highalpha=79377, lowbeta=27414, highbeta=82709, lowgamma=30151, midgamma=8960)
+ATTENTION eSense: 57
+MEDITATION eSense: 16
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=807966, theta=268855, lowalpha=9929, highalpha=24910, lowbeta=22559, highbeta=13102, lowgamma=20083, midgamma=5173)
+ATTENTION eSense: 54
+MEDITATION eSense: 20
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=658020, theta=98213, lowalpha=8190, highalpha=54038, lowbeta=21218, highbeta=25211, lowgamma=13922, midgamma=3412)
+ATTENTION eSense: 44
+MEDITATION eSense: 27
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=513842, theta=17655, lowalpha=2461, highalpha=13531, lowbeta=7595, highbeta=11088, lowgamma=3769, midgamma=594)
+ATTENTION eSense: 51
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1862500, theta=385991, lowalpha=29308, highalpha=60572, lowbeta=105046, highbeta=96190, lowgamma=70294, midgamma=18760)
+ATTENTION eSense: 51
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2762656, theta=52802, lowalpha=34836, highalpha=25519, lowbeta=9627, highbeta=16711, lowgamma=10152, midgamma=11051)
+ATTENTION eSense: 51
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=792969, theta=114010, lowalpha=34986, highalpha=57414, lowbeta=22415, highbeta=17929, lowgamma=9208, midgamma=6381)
+ATTENTION eSense: 44
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1225459, theta=645600, lowalpha=367013, highalpha=95261, lowbeta=159714, highbeta=134392, lowgamma=68287, midgamma=48724)
+ATTENTION eSense: 44
+MEDITATION eSense: 51
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1193351, theta=58788, lowalpha=18522, highalpha=31081, lowbeta=18888, highbeta=29886, lowgamma=29485, midgamma=6441)
+ATTENTION eSense: 44
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=486590, theta=100839, lowalpha=50216, highalpha=30402, lowbeta=45867, highbeta=24549, lowgamma=8995, midgamma=11727)
+ATTENTION eSense: 57
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=776944, theta=32650, lowalpha=35609, highalpha=69741, lowbeta=14903, highbeta=26608, lowgamma=15305, midgamma=10643)
+ATTENTION eSense: 60
+MEDITATION eSense: 80
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1916901, theta=408723, lowalpha=64122, highalpha=141585, lowbeta=58130, highbeta=103457, lowgamma=69360, midgamma=28257)
+ATTENTION eSense: 51
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=245686, theta=17525, lowalpha=24698, highalpha=26865, lowbeta=38689, highbeta=29462, lowgamma=15227, midgamma=7542)
+ATTENTION eSense: 70
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2328214, theta=110793, lowalpha=47602, highalpha=47689, lowbeta=146813, highbeta=105085, lowgamma=37088, midgamma=25508)
+ATTENTION eSense: 88
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=248423, theta=70696, lowalpha=39165, highalpha=63886, lowbeta=55112, highbeta=50627, lowgamma=12092, midgamma=5659)
+ATTENTION eSense: 93
+MEDITATION eSense: 60
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=746573, theta=75499, lowalpha=70225, highalpha=26039, lowbeta=50481, highbeta=28416, lowgamma=11070, midgamma=21297)
+ATTENTION eSense: 93
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1455061, theta=361110, lowalpha=174153, highalpha=230285, lowbeta=45882, highbeta=88776, lowgamma=121470, midgamma=48347)
+ATTENTION eSense: 90
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1165299, theta=189966, lowalpha=144697, highalpha=248889, lowbeta=121754, highbeta=125222, lowgamma=97084, midgamma=35514)
+ATTENTION eSense: 81
+MEDITATION eSense: 74
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1182652, theta=145905, lowalpha=15336, highalpha=40752, lowbeta=26388, highbeta=34879, lowgamma=9271, midgamma=10781)
+ATTENTION eSense: 69
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=426242, theta=68116, lowalpha=39701, highalpha=20568, lowbeta=32300, highbeta=38859, lowgamma=12486, midgamma=5183)
+ATTENTION eSense: 69
+MEDITATION eSense: 70
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1482014, theta=466928, lowalpha=244471, highalpha=15891, lowbeta=169835, highbeta=175607, lowgamma=65277, midgamma=20446)
+ATTENTION eSense: 78
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1058537, theta=396384, lowalpha=141519, highalpha=143537, lowbeta=50981, highbeta=78354, lowgamma=105652, midgamma=36287)
+ATTENTION eSense: 69
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1256870, theta=111415, lowalpha=95797, highalpha=106022, lowbeta=36919, highbeta=82584, lowgamma=45869, midgamma=38360)
+ATTENTION eSense: 75
+MEDITATION eSense: 67
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=913758, theta=134036, lowalpha=30082, highalpha=11988, lowbeta=23971, highbeta=23882, lowgamma=15340, midgamma=9797)
+ATTENTION eSense: 75
+MEDITATION eSense: 67
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=863097, theta=9678, lowalpha=7332, highalpha=13864, lowbeta=4864, highbeta=2257, lowgamma=1773, midgamma=1607)
+ATTENTION eSense: 75
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=380739, theta=311219, lowalpha=27463, highalpha=17785, lowbeta=13670, highbeta=47709, lowgamma=19265, midgamma=11339)
+ATTENTION eSense: 64
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2268343, theta=185199, lowalpha=35300, highalpha=56511, lowbeta=142325, highbeta=123126, lowgamma=37650, midgamma=30696)
+ATTENTION eSense: 74
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=238924, theta=482728, lowalpha=173257, highalpha=63528, lowbeta=124678, highbeta=92279, lowgamma=34447, midgamma=25208)
+ATTENTION eSense: 75
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=147129, theta=6555, lowalpha=12590, highalpha=8529, lowbeta=27076, highbeta=7005, lowgamma=2595, midgamma=632)
+ATTENTION eSense: 75
+MEDITATION eSense: 44
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1539244, theta=29103, lowalpha=40985, highalpha=40185, lowbeta=69014, highbeta=35659, lowgamma=19393, midgamma=5467)
+ATTENTION eSense: 75
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1657997, theta=202375, lowalpha=83740, highalpha=66938, lowbeta=164808, highbeta=125166, lowgamma=70579, midgamma=17396)
+ATTENTION eSense: 80
+MEDITATION eSense: 34
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=908478, theta=166760, lowalpha=30618, highalpha=26029, lowbeta=9108, highbeta=19899, lowgamma=9292, midgamma=5168)
+ATTENTION eSense: 75
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1817993, theta=93260, lowalpha=121149, highalpha=104450, lowbeta=158029, highbeta=77425, lowgamma=68150, midgamma=29621)
+ATTENTION eSense: 67
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=302052, theta=128000, lowalpha=10621, highalpha=89159, lowbeta=14618, highbeta=32384, lowgamma=10818, midgamma=2546)
+ATTENTION eSense: 67
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=865349, theta=317278, lowalpha=75629, highalpha=202101, lowbeta=87518, highbeta=120027, lowgamma=55929, midgamma=11606)
+ATTENTION eSense: 60
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=280806, theta=74854, lowalpha=35997, highalpha=103441, lowbeta=34269, highbeta=37910, lowgamma=22530, midgamma=6581)
+ATTENTION eSense: 67
+MEDITATION eSense: 81
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=498991, theta=50662, lowalpha=8022, highalpha=39552, lowbeta=16588, highbeta=14778, lowgamma=10445, midgamma=5996)
+ATTENTION eSense: 63
+MEDITATION eSense: 78
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=770969, theta=73241, lowalpha=49695, highalpha=22071, lowbeta=34500, highbeta=22874, lowgamma=13762, midgamma=3045)
+ATTENTION eSense: 64
+MEDITATION eSense: 78
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1227360, theta=80859, lowalpha=11306, highalpha=42997, lowbeta=41852, highbeta=14359, lowgamma=11854, midgamma=2879)
+ATTENTION eSense: 56
+MEDITATION eSense: 75
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=584583, theta=44750, lowalpha=18047, highalpha=35712, lowbeta=13543, highbeta=24936, lowgamma=19647, midgamma=5172)
+ATTENTION eSense: 61
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=113785, theta=27854, lowalpha=13757, highalpha=6073, lowbeta=7241, highbeta=4122, lowgamma=2312, midgamma=1412)
+ATTENTION eSense: 54
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=240726, theta=148305, lowalpha=24157, highalpha=7291, lowbeta=13293, highbeta=28898, lowgamma=12383, midgamma=4177)
+ATTENTION eSense: 56
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1202955, theta=122441, lowalpha=34612, highalpha=116917, lowbeta=64727, highbeta=63806, lowgamma=53974, midgamma=21284)
+ATTENTION eSense: 64
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=969660, theta=817615, lowalpha=150479, highalpha=48882, lowbeta=57232, highbeta=91352, lowgamma=41277, midgamma=19877)
+ATTENTION eSense: 53
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1391206, theta=274543, lowalpha=54640, highalpha=34646, lowbeta=96017, highbeta=103746, lowgamma=55678, midgamma=31283)
+ATTENTION eSense: 64
+MEDITATION eSense: 37
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=458684, theta=50058, lowalpha=35911, highalpha=47061, lowbeta=18838, highbeta=25475, lowgamma=16405, midgamma=2780)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1971259, theta=73826, lowalpha=22018, highalpha=27957, lowbeta=37685, highbeta=21538, lowgamma=17218, midgamma=6631)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=642493, theta=20656, lowalpha=17514, highalpha=7485, lowbeta=4699, highbeta=6378, lowgamma=2687, midgamma=1088)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=478077, theta=22732, lowalpha=4888, highalpha=8860, lowbeta=11771, highbeta=5673, lowgamma=2555, midgamma=2330)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1809832, theta=51053, lowalpha=17205, highalpha=42009, lowbeta=19274, highbeta=20706, lowgamma=13383, midgamma=4055)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1979021, theta=30401, lowalpha=13355, highalpha=9623, lowbeta=8655, highbeta=6665, lowgamma=4684, midgamma=1002)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=183688, theta=12932, lowalpha=2804, highalpha=2655, lowbeta=7452, highbeta=11049, lowgamma=3068, midgamma=1905)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1607377, theta=1012306, lowalpha=197883, highalpha=144683, lowbeta=91196, highbeta=232239, lowgamma=327631, midgamma=269872)
+ATTENTION eSense: 64
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=261478, theta=8943, lowalpha=9082, highalpha=10785, lowbeta=13170, highbeta=7058, lowgamma=3224, midgamma=1029)
+ATTENTION eSense: 64
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1558357, theta=168304, lowalpha=160524, highalpha=106743, lowbeta=143365, highbeta=94227, lowgamma=63178, midgamma=20736)
+ATTENTION eSense: 77
+MEDITATION eSense: 69
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2240796, theta=143355, lowalpha=16923, highalpha=53960, lowbeta=58276, highbeta=23080, lowgamma=11994, midgamma=4109)
+ATTENTION eSense: 77
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=923501, theta=47530, lowalpha=7973, highalpha=3971, lowbeta=12580, highbeta=9282, lowgamma=4214, midgamma=3224)
+ATTENTION eSense: 69
+MEDITATION eSense: 69
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=46, theta=18, lowalpha=5, highalpha=3, lowbeta=3, highbeta=3, lowgamma=0, midgamma=0)
+ATTENTION eSense: 69
+MEDITATION eSense: 69
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1038940, theta=100791, lowalpha=4631, highalpha=4323, lowbeta=5363, highbeta=7914, lowgamma=5095, midgamma=537)
+ATTENTION eSense: 69
+MEDITATION eSense: 69
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1159769, theta=243412, lowalpha=62408, highalpha=20200, lowbeta=11396, highbeta=16189, lowgamma=9137, midgamma=9145)
+ATTENTION eSense: 54
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1081192, theta=213062, lowalpha=199775, highalpha=112516, lowbeta=138131, highbeta=80947, lowgamma=23788, midgamma=16227)
+ATTENTION eSense: 48
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2081286, theta=75119, lowalpha=11634, highalpha=30463, lowbeta=18592, highbeta=30138, lowgamma=14925, midgamma=6039)
+ATTENTION eSense: 51
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2564689, theta=289667, lowalpha=71937, highalpha=64135, lowbeta=251498, highbeta=67858, lowgamma=64272, midgamma=31861)
+ATTENTION eSense: 51
+MEDITATION eSense: 53
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1675353, theta=159832, lowalpha=27194, highalpha=77629, lowbeta=28277, highbeta=56895, lowgamma=7969, midgamma=3880)
+ATTENTION eSense: 51
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=654871, theta=130053, lowalpha=45111, highalpha=101111, lowbeta=59069, highbeta=35360, lowgamma=30670, midgamma=11477)
+ATTENTION eSense: 63
+MEDITATION eSense: 61
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=2142446, theta=69552, lowalpha=15387, highalpha=9675, lowbeta=15138, highbeta=20971, lowgamma=12162, midgamma=11490)
+ATTENTION eSense: 63
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1624193, theta=10980, lowalpha=5278, highalpha=3347, lowbeta=11384, highbeta=9901, lowgamma=9581, midgamma=3138)
+ATTENTION eSense: 78
+MEDITATION eSense: 51
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=71682, theta=88386, lowalpha=32355, highalpha=36159, lowbeta=75172, highbeta=90518, lowgamma=88206, midgamma=37872)
+ATTENTION eSense: 78
+MEDITATION eSense: 51
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=254240, theta=10442, lowalpha=11976, highalpha=12148, lowbeta=6797, highbeta=5690, lowgamma=4800, midgamma=1794)
+ATTENTION eSense: 74
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=52474, theta=101617, lowalpha=16761, highalpha=7110, lowbeta=6749, highbeta=19185, lowgamma=10233, midgamma=9096)
+ATTENTION eSense: 70
+MEDITATION eSense: 60
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=758318, theta=150062, lowalpha=68882, highalpha=175659, lowbeta=105968, highbeta=104325, lowgamma=23941, midgamma=11336)
+ATTENTION eSense: 80
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2405064, theta=420207, lowalpha=56608, highalpha=16886, lowbeta=30260, highbeta=45647, lowgamma=31990, midgamma=21307)
+ATTENTION eSense: 57
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=918683, theta=314355, lowalpha=38784, highalpha=11092, lowbeta=51957, highbeta=47796, lowgamma=24073, midgamma=8142)
+ATTENTION eSense: 54
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=573919, theta=50418, lowalpha=878, highalpha=28017, lowbeta=22024, highbeta=24423, lowgamma=8142, midgamma=7125)
+ATTENTION eSense: 54
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=770843, theta=46319, lowalpha=2928, highalpha=5647, lowbeta=6384, highbeta=2908, lowgamma=2577, midgamma=452)
+ATTENTION eSense: 54
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=56911, theta=43740, lowalpha=6144, highalpha=845, lowbeta=2274, highbeta=6368, lowgamma=2028, midgamma=2492)
+ATTENTION eSense: 53
+MEDITATION eSense: 26
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=710536, theta=71859, lowalpha=5855, highalpha=5808, lowbeta=9003, highbeta=15259, lowgamma=5527, midgamma=3042)
+ATTENTION eSense: 50
+MEDITATION eSense: 7
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=780894, theta=54516, lowalpha=8123, highalpha=8169, lowbeta=11950, highbeta=15046, lowgamma=12618, midgamma=3947)
+ATTENTION eSense: 60
+MEDITATION eSense: 11
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1350759, theta=386375, lowalpha=42708, highalpha=35017, lowbeta=70537, highbeta=43542, lowgamma=6543, midgamma=1865)
+ATTENTION eSense: 60
+MEDITATION eSense: 11
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=8421, theta=3413, lowalpha=1498, highalpha=903, lowbeta=687, highbeta=460, lowgamma=319, midgamma=142)
+ATTENTION eSense: 60
+MEDITATION eSense: 11
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=634896, theta=86833, lowalpha=60764, highalpha=73147, lowbeta=28021, highbeta=47918, lowgamma=45696, midgamma=11124)
+ATTENTION eSense: 66
+MEDITATION eSense: 35
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=341835, theta=18881, lowalpha=13461, highalpha=7734, lowbeta=5937, highbeta=14401, lowgamma=8892, midgamma=2657)
+ATTENTION eSense: 80
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1602322, theta=370597, lowalpha=218772, highalpha=65039, lowbeta=158230, highbeta=109035, lowgamma=38315, midgamma=40006)
+ATTENTION eSense: 80
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=157827, theta=12254, lowalpha=4508, highalpha=6250, lowbeta=2721, highbeta=4719, lowgamma=1386, midgamma=1189)
+ATTENTION eSense: 81
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2200428, theta=931503, lowalpha=177777, highalpha=133145, lowbeta=244197, highbeta=212573, lowgamma=179266, midgamma=59671)
+ATTENTION eSense: 78
+MEDITATION eSense: 67
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=605857, theta=80862, lowalpha=20601, highalpha=7793, lowbeta=9011, highbeta=7144, lowgamma=6543, midgamma=2445)
+ATTENTION eSense: 63
+MEDITATION eSense: 54
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=242285, theta=11306, lowalpha=2543, highalpha=2203, lowbeta=1680, highbeta=579, lowgamma=242, midgamma=108)
+ATTENTION eSense: 63
+MEDITATION eSense: 54
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=914077, theta=311258, lowalpha=250425, highalpha=64318, lowbeta=110663, highbeta=44461, lowgamma=43181, midgamma=28991)
+ATTENTION eSense: 63
+MEDITATION eSense: 54
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=722815, theta=21454, lowalpha=9960, highalpha=4721, lowbeta=2971, highbeta=5089, lowgamma=2134, midgamma=1389)
+ATTENTION eSense: 63
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=128936, theta=16389, lowalpha=2931, highalpha=1495, lowbeta=6778, highbeta=8569, lowgamma=1566, midgamma=897)
+ATTENTION eSense: 64
+MEDITATION eSense: 40
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=578914, theta=258417, lowalpha=165638, highalpha=61492, lowbeta=88021, highbeta=93651, lowgamma=50101, midgamma=26714)
+ATTENTION eSense: 64
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=742942, theta=182945, lowalpha=23083, highalpha=40923, lowbeta=20504, highbeta=26286, lowgamma=9539, midgamma=7193)
+ATTENTION eSense: 64
+MEDITATION eSense: 40
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=617695, theta=43041, lowalpha=31200, highalpha=13064, lowbeta=4421, highbeta=5838, lowgamma=3151, midgamma=1566)
+ATTENTION eSense: 64
+MEDITATION eSense: 40
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1789753, theta=165738, lowalpha=48170, highalpha=38152, lowbeta=21989, highbeta=25436, lowgamma=6626, midgamma=3728)
+ATTENTION eSense: 64
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=366733, theta=12380, lowalpha=1624, highalpha=6644, lowbeta=13111, highbeta=13812, lowgamma=4187, midgamma=548)
+ATTENTION eSense: 78
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=92228, theta=10996, lowalpha=27628, highalpha=8257, lowbeta=6256, highbeta=1581, lowgamma=3532, midgamma=1761)
+ATTENTION eSense: 78
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=519162, theta=118498, lowalpha=19330, highalpha=56489, lowbeta=20132, highbeta=18923, lowgamma=9893, midgamma=4496)
+ATTENTION eSense: 78
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=741983, theta=16305, lowalpha=9042, highalpha=53872, lowbeta=23668, highbeta=12637, lowgamma=10398, midgamma=4188)
+ATTENTION eSense: 78
+MEDITATION eSense: 29
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=712799, theta=86570, lowalpha=14900, highalpha=7498, lowbeta=13412, highbeta=8207, lowgamma=4087, midgamma=3506)
+ATTENTION eSense: 78
+MEDITATION eSense: 29
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=214762, theta=4863, lowalpha=2508, highalpha=3208, lowbeta=1437, highbeta=2500, lowgamma=1320, midgamma=847)
+ATTENTION eSense: 81
+MEDITATION eSense: 41
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1029356, theta=907122, lowalpha=36410, highalpha=28918, lowbeta=25256, highbeta=79195, lowgamma=48201, midgamma=34284)
+ATTENTION eSense: 81
+MEDITATION eSense: 41
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2571236, theta=61259, lowalpha=9323, highalpha=18222, lowbeta=15083, highbeta=14051, lowgamma=7978, midgamma=3273)
+ATTENTION eSense: 93
+MEDITATION eSense: 41
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=3090775, theta=783443, lowalpha=46986, highalpha=118637, lowbeta=95289, highbeta=92669, lowgamma=64646, midgamma=22711)
+ATTENTION eSense: 75
+MEDITATION eSense: 44
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=605426, theta=7028, lowalpha=1892, highalpha=6286, lowbeta=2380, highbeta=2569, lowgamma=1866, midgamma=745)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=294093, theta=20599, lowalpha=6786, highalpha=4272, lowbeta=12494, highbeta=12277, lowgamma=6127, midgamma=3190)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=156789, theta=48656, lowalpha=8364, highalpha=34753, lowbeta=13479, highbeta=21463, lowgamma=5512, midgamma=2312)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=1062549, theta=71291, lowalpha=8604, highalpha=11461, lowbeta=26525, highbeta=7348, lowgamma=12476, midgamma=11568)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=449132, theta=25802, lowalpha=12256, highalpha=6485, lowbeta=5952, highbeta=4146, lowgamma=1642, midgamma=1113)
+ATTENTION eSense: 60
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=288729, theta=22290, lowalpha=10581, highalpha=10235, lowbeta=5600, highbeta=5960, lowgamma=2805, midgamma=1127)
+ATTENTION eSense: 53
+MEDITATION eSense: 56
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=559531, theta=120007, lowalpha=31984, highalpha=45401, lowbeta=18378, highbeta=21856, lowgamma=11864, midgamma=6526)
+ATTENTION eSense: 48
+MEDITATION eSense: 61
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1674764, theta=61564, lowalpha=3360, highalpha=33218, lowbeta=43324, highbeta=18787, lowgamma=17375, midgamma=3710)
+ATTENTION eSense: 57
+MEDITATION eSense: 66
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1004130, theta=267112, lowalpha=39624, highalpha=43804, lowbeta=44615, highbeta=103182, lowgamma=30985, midgamma=24001)
+ATTENTION eSense: 64
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=114959, theta=136892, lowalpha=4358, highalpha=38576, lowbeta=11806, highbeta=15239, lowgamma=6088, midgamma=1814)
+ATTENTION eSense: 60
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1081878, theta=80214, lowalpha=121991, highalpha=28591, lowbeta=21876, highbeta=39426, lowgamma=7288, midgamma=2654)
+ATTENTION eSense: 64
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1382118, theta=373694, lowalpha=153989, highalpha=106384, lowbeta=65830, highbeta=130084, lowgamma=42222, midgamma=34838)
+ATTENTION eSense: 64
+MEDITATION eSense: 57
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1907025, theta=1662263, lowalpha=148006, highalpha=218711, lowbeta=249794, highbeta=272213, lowgamma=379608, midgamma=57048)
+ATTENTION eSense: 54
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=46092, theta=9775, lowalpha=6684, highalpha=4502, lowbeta=6607, highbeta=6115, lowgamma=1867, midgamma=242)
+ATTENTION eSense: 67
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=445534, theta=29221, lowalpha=7903, highalpha=4509, lowbeta=9268, highbeta=5811, lowgamma=1693, midgamma=1368)
+ATTENTION eSense: 66
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=424384, theta=123696, lowalpha=76516, highalpha=16049, lowbeta=16210, highbeta=29397, lowgamma=10801, midgamma=1549)
+ATTENTION eSense: 61
+MEDITATION eSense: 50
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1383477, theta=1040908, lowalpha=51570, highalpha=58301, lowbeta=59872, highbeta=83049, lowgamma=43256, midgamma=19497)
+ATTENTION eSense: 53
+MEDITATION eSense: 43
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=594381, theta=31319, lowalpha=11261, highalpha=8069, lowbeta=20130, highbeta=12328, lowgamma=6641, midgamma=3532)
+ATTENTION eSense: 53
+MEDITATION eSense: 38
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=103194, theta=23219, lowalpha=4904, highalpha=8136, lowbeta=5163, highbeta=2453, lowgamma=2736, midgamma=528)
+ATTENTION eSense: 44
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=176196, theta=10495, lowalpha=18917, highalpha=10364, lowbeta=9280, highbeta=3262, lowgamma=1060, midgamma=2608)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=691745, theta=61595, lowalpha=30327, highalpha=19958, lowbeta=9628, highbeta=22304, lowgamma=16689, midgamma=4052)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1519512, theta=157695, lowalpha=32588, highalpha=13788, lowbeta=58904, highbeta=7096, lowgamma=4238, midgamma=4019)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=3365792, theta=215547, lowalpha=36749, highalpha=61206, lowbeta=59480, highbeta=34720, lowgamma=22620, midgamma=16630)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=521982, theta=63455, lowalpha=6168, highalpha=38125, lowbeta=19800, highbeta=24404, lowgamma=4023, midgamma=2428)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 51
+ASIC EEG Power: EEGPowerData(delta=1932011, theta=50463, lowalpha=19398, highalpha=10423, lowbeta=18100, highbeta=5209, lowgamma=10949, midgamma=9278)
+ATTENTION eSense: 38
+MEDITATION eSense: 50
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=5, theta=3, lowalpha=0, highalpha=0, lowbeta=3, highbeta=2, lowgamma=1, midgamma=2)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=87, theta=2, lowalpha=0, highalpha=2, lowbeta=1, highbeta=3, lowgamma=1, midgamma=1)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 25
+ASIC EEG Power: EEGPowerData(delta=678733, theta=16674, lowalpha=10408, highalpha=1583, lowbeta=12736, highbeta=3491, lowgamma=2647, midgamma=2547)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=590387, theta=67567, lowalpha=17380, highalpha=26839, lowbeta=11041, highbeta=39218, lowgamma=22196, midgamma=6145)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=205948, theta=7100, lowalpha=6267, highalpha=3861, lowbeta=4063, highbeta=7639, lowgamma=5188, midgamma=1844)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 26
+ASIC EEG Power: EEGPowerData(delta=259885, theta=27237, lowalpha=5348, highalpha=3309, lowbeta=4544, highbeta=3539, lowgamma=423, midgamma=360)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=2275730, theta=67445, lowalpha=19578, highalpha=30288, lowbeta=32464, highbeta=12238, lowgamma=7766, midgamma=5822)
+ATTENTION eSense: 0
+MEDITATION eSense: 0
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=996892, theta=12211, lowalpha=13059, highalpha=2066, lowbeta=6267, highbeta=4706, lowgamma=4219, midgamma=2801)
+ATTENTION eSense: 40
+MEDITATION eSense: 54
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=842999, theta=109851, lowalpha=31641, highalpha=11604, lowbeta=15080, highbeta=18589, lowgamma=4330, midgamma=2008)
+ATTENTION eSense: 37
+MEDITATION eSense: 40
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=715156, theta=13778, lowalpha=22460, highalpha=4711, lowbeta=11056, highbeta=9807, lowgamma=3587, midgamma=1218)
+ATTENTION eSense: 41
+MEDITATION eSense: 63
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1683662, theta=94355, lowalpha=33291, highalpha=59086, lowbeta=25751, highbeta=40595, lowgamma=19089, midgamma=4066)
+ATTENTION eSense: 47
+MEDITATION eSense: 77
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=794087, theta=157262, lowalpha=50050, highalpha=23255, lowbeta=27805, highbeta=20360, lowgamma=15912, midgamma=10832)
+ATTENTION eSense: 35
+MEDITATION eSense: 53
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=389307, theta=8666, lowalpha=7371, highalpha=2217, lowbeta=2354, highbeta=3834, lowgamma=1530, midgamma=358)
+ATTENTION eSense: 41
+MEDITATION eSense: 83
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=725645, theta=234427, lowalpha=63461, highalpha=32325, lowbeta=32056, highbeta=22655, lowgamma=15987, midgamma=5243)
+ATTENTION eSense: 23
+MEDITATION eSense: 48
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=420714, theta=15705, lowalpha=4568, highalpha=6478, lowbeta=11390, highbeta=6940, lowgamma=3993, midgamma=1258)
+ATTENTION eSense: 24
+MEDITATION eSense: 21
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1515424, theta=289995, lowalpha=31778, highalpha=24724, lowbeta=55784, highbeta=11794, lowgamma=9955, midgamma=5756)
+ATTENTION eSense: 17
+MEDITATION eSense: 10
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1213440, theta=37201, lowalpha=63008, highalpha=112091, lowbeta=60845, highbeta=18664, lowgamma=23367, midgamma=7854)
+ATTENTION eSense: 10
+MEDITATION eSense: 17
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=598221, theta=87401, lowalpha=18124, highalpha=4540, lowbeta=9201, highbeta=9723, lowgamma=4934, midgamma=1314)
+ATTENTION eSense: 16
+MEDITATION eSense: 17
+POOR SIGNAL: 0
+ASIC EEG Power: EEGPowerData(delta=1689811, theta=60612, lowalpha=32046, highalpha=79775, lowbeta=61723, highbeta=35493, lowgamma=17380, midgamma=12025)
+ATTENTION eSense: 16
+MEDITATION eSense: 43
