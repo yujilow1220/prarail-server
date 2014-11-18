@@ -138,11 +138,12 @@ function parseData(data){
 //設定スピードから送るデータ型に変形する
 function getSendData(speed_dc){
     var FROM_SERVER = "1"
-    var RAIL_NUM = "0"
-    var speed_bi = -3
+    var RAIL_NUM = "0" //使用サーバによって0か1か
+    //符号ビット
     var speed_bi_pm = 0;
-    if(speed_bi < 0)speed_bi_pm = 1;
-    speed_bi = Math.abs(speed_bi).toString(2)
+    if(speed_dc < 0)speed_bi_pm = 1;
+    //絶対値にしないと値がおかしくなる
+    var speed_bi = Math.abs(speed_dc).toString(2)
     var send = FROM_SERVER+RAIL_NUM+speed_bi_pm+speed_bi;
     return send;
 
