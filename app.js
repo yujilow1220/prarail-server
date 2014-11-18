@@ -101,7 +101,6 @@ serial_mind.open(function () {
       var nextSpeed = get_train_speed(data.attention, data.meditation) //次のスピードを計算する
 
       if(nextSpeed != prevSpeed){
-        console.log("ns = "+nextSpeed)
         var sendData = getSendData(nextSpeed)
         serial_xbee.write(sendData)
         app.set("prev_speed", nextSpeed)
@@ -119,7 +118,20 @@ function get_train_speed(att, med){
     var speed = 0;
     console.log("at: "+att+", med: "+med);
     //どうにかして車両に送る値をつくる
+    var unit = 100/7;
+    if(between(att,unit*0,unit*1))speed = -3;
+    if(between(att,unit*1,unit*2))speed = -2;
+    if(between(att,unit*2,unit*3))speed = -1;
+    if(between(att,unit*3,unit*4))speed = 0;
+    if(between(att,unit*4,unit*5))speed = 1;
+    if(between(att,unit*5,unit*6))speed = 2;
+    if(between(att,unit*6,unit*7))speed = 3;
     return speed;
+}
+
+function between(data,down,up){
+    if(data < up && data > down) return true;
+    else return false;
 }
 
 //データ受信時に呼び出す関数
