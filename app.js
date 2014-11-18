@@ -84,9 +84,9 @@ serial_xbee = new Serial_xbee("/dev/tty.usbserial-A700eEHf", {
 serial_xbee.on("open", function () {
 
   serial_xbee.on('data', function(data) {
-    data = iconv.encode(data, 'us-ascii');
-    console.log('data received: ' + iconv.encode(data, 'us-ascii'));
-    onDataRecieved(data);
+    data_encoded = iconv.encode(data, 'us-ascii');
+    console.log('data received: ' data_encoded);
+    onDataRecieved(data_encoded);
   });
 });
 
