@@ -72,13 +72,37 @@ fs.watchFile(target, { interval: 10 }, function (curr, prev) {
 /*ここから*/
 var serialPort = require('mindset-js-binary-parser')
 serialPort.open(function () {
+/* ここからシリアル */
+var serial_mind = require('mindset-js-binary-parser')
+var Serial_xbee = require("serialport").SerialPort
+
+console.log(iconv.encodingExists("us-ascii"))
+serial_xbee = new Serial_xbee("/dev/tty.usbserial-A700eEHf", {
+  baudRate: 9600,
+  dataBits: 8,
+  parity: 'none',
+  stopBits: 1,
+  flowControl: false
+});
+serial_xbee.on("open", function () {
+
+  serial_xbee.on('data', function(data) {
+    data = iconv.encode(data, 'us-ascii');
+    console.log('data received: ' + iconv.encode(data, 'us-ascii'));
+    onDataRecieved(data);
+  });
+});
+
+
+serial_mind.open(function () {
 
     console.log('Serial port opened');
 
-    serialPort.on('data', function(data) {
+    serial_mind.on('data', function(data) {
     if(!data.rawEeg){
-      //console.log(data);
+
       app.set("eeg_data",data)
+      send_train_speed(data.attention, data.meditation)
     }
     });
 
