@@ -74,7 +74,6 @@ fs.watchFile(target, { interval: 10 }, function (curr, prev) {
 var serial_mind = require('mindset-js-binary-parser')
 var Serial_xbee = require("serialport").SerialPort
 
-console.log(iconv.encodingExists("us-ascii"))
 serial_xbee = new Serial_xbee("/dev/tty.usbserial-A700eEHf", {
   baudRate: 9600,
   dataBits: 8,
