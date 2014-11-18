@@ -99,7 +99,7 @@ serial_mind.open(function () {
     if(!data.rawEeg){
 
       app.set("eeg_data",data)
-      send_train_speed(data.attention, data.meditation)
+      var nextSpeed = get_train_speed(data.attention, data.meditation)
     }
     });
 
@@ -109,12 +109,12 @@ serial_mind.open(function () {
 /*ここから関数*/
 
 // 列車の速度を変える
-function send_train_speed(att, med){
+function get_train_speed(att, med){
+    var speed = 0;
     console.log("at: "+att+", med: "+med);
     //どうにかして車両に送る値をつくる
-    serial_xbee.write("110",function(err, result){
-        console.log(result)
-    })
+    return speed;
+}
 }
 /*ここまで関数*/
 
