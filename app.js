@@ -4,6 +4,7 @@ var favicon = require('serve-favicon');
 var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
+var iconv = require('iconv-lite');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
@@ -69,9 +70,6 @@ fs.watchFile(target, { interval: 10 }, function (curr, prev) {
     });
 });
 
-/*ここから*/
-var serialPort = require('mindset-js-binary-parser')
-serialPort.open(function () {
 /* ここからシリアル */
 var serial_mind = require('mindset-js-binary-parser')
 var Serial_xbee = require("serialport").SerialPort
@@ -108,5 +106,17 @@ serial_mind.open(function () {
 
   });
 
+/* ここまでシリアル */
+/*ここから関数*/
+
+// 列車の速度を変える
+function send_train_speed(att, med){
+    console.log("at: "+att+", med: "+med);
+    //どうにかして車両に送る値をつくる
+    serial_xbee.write("110",function(err, result){
+        console.log(result)
+    })
+}
+/*ここまで関数*/
 
 module.exports = app;
