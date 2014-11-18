@@ -93,12 +93,19 @@ serial_xbee.on("open", function () {
 serial_mind.open(function () {
 
     console.log('Serial port opened');
-
     serial_mind.on('data', function(data) {
     if(!data.rawEeg){
-
       app.set("eeg_data",data)
-      var nextSpeed = get_train_speed(data.attention, data.meditation)
+
+      var prevSpeed = module.parent.exports.set('prev_speed') //前のスピードをだして
+      var nextSpeed = get_train_speed(data.attention, data.meditation) //次のスピードを計算する
+
+      if(nextSpeed != prevSpeed){
+        console.log("ns = "+nextSpeed)
+        var sendData = getSendData(nextSpeed)
+        serial_xbee.write(sendData)
+        app.set("prev_speed", nextSpeed)
+      }
     }
     });
 
@@ -107,7 +114,7 @@ serial_mind.open(function () {
 /* ここまでシリアル */
 /*ここから関数*/
 
-// 列車の速度を変える
+// 列車の速度を変える -3,-2,-1,0,1,2,3
 function get_train_speed(att, med){
     var speed = 0;
     console.log("at: "+att+", med: "+med);
@@ -128,5 +135,18 @@ function parseData(data){
 
 }
 /*ここまで関数*/
+//設定スピードから送るデータ型に変形する
+function getSendData(speed_dc){
+    var FROM_SERVER = "1"
+    var RAIL_NUM = "0"
+    var speed_bi = -3
+    var speed_bi_pm = 0;
+    if(speed_bi < 0)speed_bi_pm = 1;
+    speed_bi = Math.abs(speed_bi).toString(2)
+    var send = FROM_SERVER+RAIL_NUM+speed_bi_pm+speed_bi;
+    return send;
+
+}
+
 
 module.exports = app;
