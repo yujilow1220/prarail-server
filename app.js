@@ -82,11 +82,10 @@ serial_xbee = new Serial_xbee("/dev/tty.usbserial-A700eEHf", {
   flowControl: false
 });
 serial_xbee.on("open", function () {
-
-  serial_xbee.on('data', function(data) {
-    data_encoded = iconv.encode(data, 'us-ascii');
-    console.log('data received: ' data_encoded);
-    onDataRecieved(data_encoded);
+    serial_xbee.on('data', function(data) {
+        var data_encoded = iconv.encode(data, 'us-ascii');
+        console.log(data_encoded)
+        onDataRecieved(data_encoded)
   });
 });
 
@@ -115,6 +114,18 @@ function get_train_speed(att, med){
     //どうにかして車両に送る値をつくる
     return speed;
 }
+
+//データ受信時に呼び出す関数
+//dataは10進数の数値と予想される
+function onDataRecieved(data){
+    var data_2 = data.toString(2)
+    console.log("data_2 = "+data_2)
+    var parse = parseData(data_2);
+
+}
+
+function parseData(data){
+
 }
 /*ここまで関数*/
 
