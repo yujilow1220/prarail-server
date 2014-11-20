@@ -59,14 +59,14 @@ router.get("/EEG", function(req, res){
 	// 	attention: 12,
 	// 	meditation: 30
 	// })
-	res.send(module.parent.exports.set('eeg_data'));
+	 res.send(module.parent.exports.set('eeg_data'));
 })
 
 router.get("/prarail", function(req, res){
 	res.send({
 		distance: 30,
 		place: 1,
-		speed: 20
+		speed: module.parent.exports.set('speed')*10
 	})
 })
 
