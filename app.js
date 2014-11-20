@@ -156,6 +156,7 @@ function onDataRecieved(data){
         console.log("prarail")
     }
     else if(data_str.charCodeAt(0) > 96){
+        app.set("place", data_str);
         console.log("station")
 
     }
