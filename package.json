@@ -15,7 +15,6 @@
     "ejs": "~0.8.5",
     "mindset-js-binary-parser": "*",
     "serialport": "*",
-    "xbee": "*",
     "jschardet":"*",
     "iconv-lite":"*"
   }
