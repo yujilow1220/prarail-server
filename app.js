@@ -65,16 +65,7 @@ app.use(function(err, req, res, next) {
     });
 });
 
-var fs   = require('fs');
-var target = "file/data"
-var i = 0;
-fs.watchFile(target, { interval: 10 }, function (curr, prev) {
-    fs.readFile(target, 'utf8', function (err, text) {
-        if (err) { throw err; }
-        var lines = text.toString().split('\n').length - 1 // 文字列に変換し改行で配列に分割
-        console.log(lines)
-    });
-});
+
 
 /* ここからシリアル */
 var serial_mind = require('mindset-js-binary-parser')
@@ -90,12 +81,22 @@ serial_xbee = new Serial_xbee("/dev/tty.usbserial-A700eEHf", {
 serial_xbee.on("open", function () {
     serial_xbee.on('data', function(data) {
         var data_encoded = iconv.encode(data, 'us-ascii');
-        console.log(data_encoded)
         onDataRecieved(data_encoded)
   });
 });
 
+test();
 
+function test(){
+
+
+}
+
+var prarail_charset = ["(", ")", "*", "+", ",", "-", ".", "/", "0","1","2","3","4","5"];
+var station_charset = ["a", "b", "c", "d", "e", "f", "g", "h", "i","j"];
+
+
+//necomimi 主に送信側
 serial_mind.open(function () {
 
     console.log('Serial port opened');
@@ -103,13 +104,18 @@ serial_mind.open(function () {
     if(!data.rawEeg){
       app.set("eeg_data",data)
 
-      var prevSpeed = module.parent.exports.set('prev_speed') //前のスピードをだして
+      var prevSpeed = module.exports.set('prev_speed') //前のスピードをだして
       var nextSpeed = get_train_speed(data.attention, data.meditation) //次のスピードを計算する
+      console.log(data.poorSignal)
 
-      if(nextSpeed != prevSpeed){
-        var sendData = getSendData(nextSpeed)
+      if(true || nextSpeed != prevSpeed){
+        var sendData = nextSpeed
+        //sendData = prarail_charset[6]
         serial_xbee.write(sendData)
+        console.log("emitted. :"+sendData)
         app.set("prev_speed", nextSpeed)
+        app.set("speed", prarail_charset.indexOf(nextSpeed));
+        console.log(prarail_charset.indexOf(nextSpeed))
       }
     }
     });
@@ -125,13 +131,13 @@ function get_train_speed(att, med){
     console.log("at: "+att+", med: "+med);
     //どうにかして車両に送る値をつくる
     var unit = 100/7;
-    if(between(att,unit*0,unit*1))speed = -3;
-    if(between(att,unit*1,unit*2))speed = -2;
-    if(between(att,unit*2,unit*3))speed = -1;
-    if(between(att,unit*3,unit*4))speed = 0;
-    if(between(att,unit*4,unit*5))speed = 1;
-    if(between(att,unit*5,unit*6))speed = 2;
-    if(between(att,unit*6,unit*7))speed = 3;
+    if(between(att,unit*0,unit*1))speed = prarail_charset[0];
+    if(between(att,unit*1,unit*2))speed = prarail_charset[1];
+    if(between(att,unit*2,unit*3))speed = prarail_charset[2];
+    if(between(att,unit*3,unit*4))speed = prarail_charset[3];
+    if(between(att,unit*4,unit*5))speed = prarail_charset[4];
+    if(between(att,unit*5,unit*6))speed = prarail_charset[5];
+    if(between(att,unit*6,unit*7))speed = prarail_charset[6];
     return speed;
 }
 
@@ -143,29 +149,20 @@ function between(data,down,up){
 //データ受信時に呼び出す関数
 //dataは10進数の数値と予想される
 function onDataRecieved(data){
-    var data_2 = data.toString(2)
-    console.log("data_2 = "+data_2)
-    var parse = parseData(data_2);
+//    var data_2 = data.toString(2)
+    var data_str = data.toString()
+    console.log("data recieved: "+data_str)
+    if(data_str.charCodeAt(0) < 60 && data_str.charCodeAt(0) > 32){
+        console.log("prarail")
+    }
+    else if(data_str.charCodeAt(0) > 96){
+        console.log("station")
 
-}
-
-function parseData(data){
+    }
+//    var parse = parseData(data_2);
 
 }
 /*ここまで関数*/
-//設定スピードから送るデータ型に変形する
-function getSendData(speed_dc){
-    var FROM_SERVER = "1"
-    var RAIL_NUM = "0" //使用サーバによって0か1か
-    //符号ビット
-    var speed_bi_pm = 0;
-    if(speed_dc < 0)speed_bi_pm = 1;
-    //絶対値にしないと値がおかしくなる
-    var speed_bi = Math.abs(speed_dc).toString(2)
-    var send = FROM_SERVER+RAIL_NUM+speed_bi_pm+speed_bi;
-    return send;
-
-}
 
 
 module.exports = app;
