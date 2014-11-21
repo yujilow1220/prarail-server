@@ -114,7 +114,7 @@ serial_mind.open(function () {
         serial_xbee.write(sendData)
         console.log("emitted. :"+sendData)
         app.set("prev_speed", nextSpeed)
-        app.set("speed", prarail_charset.indexOf(nextSpeed));
+        //app.set("speed", prarail_charset.indexOf(nextSpeed));
         console.log(prarail_charset.indexOf(nextSpeed))
       }
     }
@@ -154,6 +154,7 @@ function onDataRecieved(data){
     console.log("data recieved: "+data_str)
     if(data_str.charCodeAt(0) < 60 && data_str.charCodeAt(0) > 32){
         console.log("prarail")
+        app.set("speed",data_str)
     }
     else if(data_str.charCodeAt(0) > 96){
         app.set("place", data_str);

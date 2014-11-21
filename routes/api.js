@@ -65,7 +65,7 @@ router.get("/EEG", function(req, res){
 router.get("/prarail", function(req, res){
 	var place_raw = module.parent.exports.set('place')
 	var place_send;
-	var speed = module.parent.exports.set('speed')*10;
+	var speed = module.parent.exports.set('speed')*5;
 	if(speed < 0 )speed = 0;
 	if(place_raw == "a"){
 		place_send = "調布駅"
