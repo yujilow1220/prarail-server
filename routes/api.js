@@ -73,6 +73,8 @@ router.get("/prarail", function(req, res){
 		place_send = "明大前駅"
 	}else if(place_raw == "g" ||place_raw == "h" || place_raw == "i"){
 		place_send = "新宿駅"
+	}else {
+		place_send = "不明"
 	}
 	res.send({
 		distance: 30,
