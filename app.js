@@ -128,16 +128,24 @@ serial_mind.open(function () {
 // 列車の速度を変える -3,-2,-1,0,1,2,3
 function get_train_speed(att, med){
     var speed = 0;
+    var tnum = 0; //列車番号 or 7
     console.log("at: "+att+", med: "+med);
     //どうにかして車両に送る値をつくる
+    /*
     var unit = 100/7;
-    if(between(att,unit*0,unit*1))speed = prarail_charset[0];
-    if(between(att,unit*1,unit*2))speed = prarail_charset[1];
-    if(between(att,unit*2,unit*3))speed = prarail_charset[2];
-    if(between(att,unit*3,unit*4))speed = prarail_charset[3];
-    if(between(att,unit*4,unit*5))speed = prarail_charset[4];
-    if(between(att,unit*5,unit*6))speed = prarail_charset[5];
-    if(between(att,unit*6,unit*7))speed = prarail_charset[6];
+    if(between(att,unit*0,unit*1))speed = prarail_charset[0+tnum];
+    if(between(att,unit*1,unit*2))speed = prarail_charset[1+tnum];
+    if(between(att,unit*2,unit*3))speed = prarail_charset[2+tnum];
+    if(between(att,unit*3,unit*4))speed = prarail_charset[3+tnum];
+    if(between(att,unit*4,unit*5))speed = prarail_charset[4+tnum];
+    if(between(att,unit*5,unit*6))speed = prarail_charset[5+tnum];
+    if(between(att,unit*6,unit*7))speed = prarail_charset[6+tnum];
+    */
+    if(att > med){
+        speed = prarail_charset[1+tnum]
+    }else {
+        speed = prarail_charset[6+tnum]
+    }
     return speed;
 }
 
