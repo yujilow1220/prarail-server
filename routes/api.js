@@ -67,11 +67,11 @@ router.get("/prarail", function(req, res){
 	var place_send;
 	var speed = module.parent.exports.set('speed')*5;
 	if(speed < 0 )speed = 0;
-	if(place_raw == "a"){
+	if(place_raw == "a" || place_raw == "b" || place_raw == "c"){
 		place_send = "調布駅"
-	}else if(place_raw == "d"){
+	}else if(place_raw == "d" || place_raw == "e" || place_raw == "f"){
 		place_send = "明大前駅"
-	}else if(place_raw == "g"){
+	}else if(place_raw == "g" ||place_raw == "h" || place_raw == "i"){
 		place_send = "新宿駅"
 	}
 	res.send({
