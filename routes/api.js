@@ -63,10 +63,21 @@ router.get("/EEG", function(req, res){
 })
 
 router.get("/prarail", function(req, res){
+	var place_raw = module.parent.exports.set('place')
+	var place_send;
+	var speed = module.parent.exports.set('speed')*10;
+	if(speed < 0 )speed = 0;
+	if(place_raw == "a"){
+		place_send = "調布駅"
+	}else if(place_raw == "d"){
+		place_send = "明大前駅"
+	}else if(place_raw == "g"){
+		place_send = "新宿駅"
+	}
 	res.send({
 		distance: 30,
-		place: 1,
-		speed: module.parent.exports.set('speed')*10
+		place: place_send,
+		speed: speed
 	})
 })
 
