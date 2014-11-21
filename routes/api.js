@@ -77,7 +77,7 @@ router.get("/prarail", function(req, res){
 	}
 	res.send({
 		distance: 30,
-		place: place_raw,
+		place: place_send,
 		speed: speed
 	})
 })
