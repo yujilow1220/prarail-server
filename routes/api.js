@@ -64,7 +64,8 @@ router.get("/EEG", function(req, res){
 
 router.get("/prarail", function(req, res){
 	var place_raw = module.parent.exports.set('place')
-	var place_send = place_raw;
+	place_raw = place_raw.charAt(0);
+	var place_send;
 	var speed = module.parent.exports.set('speed')*5;
 	if(speed < 0 )speed = 0;
 	if(place_raw == "a" || place_raw == "b" || place_raw == "c"){
